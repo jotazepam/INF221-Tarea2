@@ -1,0 +1,15 @@
+Este informe estudia el comportamiento práctico de tres paradigmas de diseño de
+algoritmos sobre un mismo problema: encontrar en una grilla de $N \times M$ el
+camino de máximo puntaje desde $(1,1)$ hasta $(N,M)$, con movimientos solo
+hacia el este y hacia el sur, sorteando murallas intransitables y minas que
+cuestan una vida y restan $P$ puntos. Como el rover dispone de $V$ unidades de
+blindaje, el problema combina la búsqueda de un camino con una restricción de
+recurso, del mismo modo que la capacidad en el problema de la mochila.
+
+Los paradigmas comparados son la fuerza bruta, implementada como backtracking
+recursivo que poda únicamente los nodos de fracaso; la programación dinámica,
+que obtiene el óptimo exacto tabulando los $N \cdot M \cdot V$ estados; y una
+heurística greedy cuya regla local viene fijada por el enunciado. El objetivo
+es contrastar sus curvas empíricas de tiempo y memoria contra las cotas
+asintóticas que les corresponden, y cuantificar el costo de la miopía greedy
+mediante su brecha respecto al óptimo y su tasa de falla.

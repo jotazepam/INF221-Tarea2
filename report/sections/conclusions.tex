@@ -1,0 +1,12 @@
+Las curvas normalizadas confirman los dos modelos de costo: la fuerza bruta se
+estabiliza en $2{,}6$ nanosegundos por nodo del árbol de estados, cuyo tamaño
+es $\binom{N+M}{N}$ y no la cantidad de caminos, y la programación dinámica en
+$8{,}5$ nanosegundos por estado sobre $N \cdot M \cdot V$ estados, con una
+memoria que se duplica exactamente al duplicarse el área. Esa diferencia de
+paradigma, y no de implementación, es la que produce una razón superior a
+$2 \times 10^5$ en el mayor tamaño donde ambas corren. En cuanto al greedy, su
+deterioro no es una degradación de la regla sino una acumulación: normalizada
+por la cantidad de decisiones, su pérdida es constante en $2{,}00$ puntos por
+movimiento en D10 y $197$ en D1000. Lo que sí depende del terreno es su tasa de
+falla, un $13{,}2$ por ciento global que se concentra por completo en las
+grillas con murallas, porque solo una muralla puede dejarlo sin candidatas.

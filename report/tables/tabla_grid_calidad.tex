@@ -1,0 +1,22 @@
+% Generado automaticamente por grid_pathfinding/scripts/plot_generator.py
+% NO EDITAR A MANO: se sobrescribe al correr 'make plots'.
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{llrrrr}
+\hline
+Tipo & Dominio & Instancias & Sin solución & $\Delta$ mediana & $\Delta$ máxima \\
+\hline
+libre & D10 & 36 & 0 & 180 & 7417 \\
+libre & D1000 & 36 & 0 & 12741 & 769946 \\
+murallas & D10 & 36 & 8 & 114 & 7301 \\
+murallas & D1000 & 36 & 12 & 19389 & 791288 \\
+minas & D10 & 36 & 0 & 99 & 7834 \\
+minas & D1000 & 36 & 1 & 14432 & 770790 \\
+mixta & D10 & 36 & 12 & 96 & 6931 \\
+mixta & D1000 & 36 & 5 & 9506 & 744092 \\
+\hline
+\end{tabular}
+\caption{Calidad de la solución greedy. La brecha $\Delta = s(C^*) - s(C_{\text{greedy}})$ se calcula solo sobre las instancias en que la heurística alcanza la meta.}
+\label{tab:grid_calidad}
+\end{table}

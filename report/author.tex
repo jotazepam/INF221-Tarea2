@@ -1,0 +1,19 @@
+\newcommand{\namestudent}{Juan Pablo Naylor}
+\newcommand{\rolusm}{202104614-3}
+
+% Los usa report.tex en el titulo, el encabezado y el pie de pagina.
+\newcommand{\tnum}{2}
+\newcommand{\sem}{2026-2}
+\newcommand{\campus}{San Joaquín \\ Santiago}
+
+% report.tex imprime \today y \currenttime en la portada. Se redefinen aqui
+% para que muestre la fecha de entrega y no la fecha y hora de compilacion.
+%
+% Tiene que ir dentro de \AtBeginDocument: babel en espanol define su propio
+% \today al abrir el documento, despues de leer este archivo, asi que un
+% \renewcommand suelto aqui queda pisado y la portada termina mostrando la
+% fecha real de compilacion.
+\AtBeginDocument{%
+  \renewcommand{\today}{23 de noviembre de 2026}%
+  \renewcommand{\currenttime}{}%
+}

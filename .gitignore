@@ -1,0 +1,26 @@
+# Artefactos de compilacion (se regeneran con 'make')
+*.o
+*.exe
+code/grid_pathfinding/grid_pathfinding
+
+# Paquete para Overleaf: se rearma desde report/ y los PNG de
+# code/grid_pathfinding/data/plots.
+informe_overleaf.zip
+
+# Salidas de LaTeX
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.bbl
+report/*.bcf
+report/*.blg
+report/*.run.xml
+
+# Grillas grandes y sus salidas: se regeneran identicas con el generador,
+# que usa semilla determinista:
+#   cd code/grid_pathfinding && python scripts/grid_generator.py --seed 2026
+code/grid_pathfinding/data/grid_input/256_*
+code/grid_pathfinding/data/grid_input/1024_*
+code/grid_pathfinding/data/grid_output/256_*
+code/grid_pathfinding/data/grid_output/1024_*

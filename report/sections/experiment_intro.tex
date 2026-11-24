@@ -1,0 +1,25 @@
+Todas las mediciones se tomaron en un Intel Core i5-11400H de seis núcleos a
+2.70\,GHz con 8\,GB de RAM, sobre Windows 11 y disco SSD NVMe. El código se
+compiló con \texttt{g++} 16.2.0 de MSYS2 UCRT64, con \texttt{-O2 -std=c++17} y
+enlace estático; el generador de grillas y el de gráficos están en Python 3.11
+con numpy y matplotlib.
+
+Los conjuntos de datos son los del enunciado: 288 grillas que combinan
+$N \in \{2^2, 2^3, 2^4, 2^6, 2^8, 2^{10}\}$ con $M \in \{N, 2N\}$, los cuatro
+tipos de terreno, los dos dominios de valores y tres muestras por combinación,
+siempre con $V = 3$. El generador usa semilla fija, de modo que las grillas se
+borran y reconstruyen idénticas, lo que se verificó por sumas
+MD5~\cite{hales2017replicability}.
+
+Cada instancia se midió tres veces y se reporta la mediana, no el promedio,
+porque el ruido de una medición de tiempo es asimétrico: una interrupción del
+sistema operativo solo puede hacer que el programa parezca más lento. La grilla
+se lee una vez por caso y fuera del cronómetro, y los tres algoritmos la
+reciben por referencia constante. La memoria auxiliar se obtiene reemplazando
+globalmente \texttt{operator new} y \texttt{operator delete} y registrando el
+pico de bytes vivos durante la llamada, lo que mide lo que pide el algoritmo y
+no lo que ocupa el proceso. Siguiendo el enunciado, la fuerza bruta solo se
+ejecuta cuando $N + M \leq 32$, es decir en 120 de las 288 instancias; en esas
+120 se comparó su salida contra la de la programación dinámica en puntaje,
+camino y vidas restantes, sin ninguna discrepancia. En total se registraron
+2088 mediciones.

@@ -1,0 +1,2089 @@
+algoritmo,n,m,tipo,dominio,muestra,rep,tiempo_ms,memoria_bytes,puntaje,vidas,estado
+fuerza bruta,4,4,libre,D10,a,0,0.003200,0,18,3,OK
+fuerza bruta,4,4,libre,D10,a,1,0.001200,0,18,3,OK
+fuerza bruta,4,4,libre,D10,a,2,0.000500,0,18,3,OK
+programacion dinamica,4,4,libre,D10,a,0,0.021400,432,18,3,OK
+programacion dinamica,4,4,libre,D10,a,1,0.001300,432,18,3,OK
+programacion dinamica,4,4,libre,D10,a,2,0.000600,432,18,3,OK
+greedy,4,4,libre,D10,a,0,0.000300,0,18,3,OK
+greedy,4,4,libre,D10,a,1,0.000400,0,18,3,OK
+greedy,4,4,libre,D10,a,2,0.000000,0,18,3,OK
+fuerza bruta,4,4,libre,D10,b,0,0.001400,0,47,3,OK
+fuerza bruta,4,4,libre,D10,b,1,0.001400,0,47,3,OK
+fuerza bruta,4,4,libre,D10,b,2,0.000600,0,47,3,OK
+programacion dinamica,4,4,libre,D10,b,0,0.002100,432,47,3,OK
+programacion dinamica,4,4,libre,D10,b,1,0.002400,432,47,3,OK
+programacion dinamica,4,4,libre,D10,b,2,0.000800,432,47,3,OK
+greedy,4,4,libre,D10,b,0,0.000400,0,47,3,OK
+greedy,4,4,libre,D10,b,1,0.000500,0,47,3,OK
+greedy,4,4,libre,D10,b,2,0.000100,0,47,3,OK
+fuerza bruta,4,4,libre,D10,c,0,0.001200,0,4,3,OK
+fuerza bruta,4,4,libre,D10,c,1,0.001300,0,4,3,OK
+fuerza bruta,4,4,libre,D10,c,2,0.000500,0,4,3,OK
+programacion dinamica,4,4,libre,D10,c,0,0.001900,432,4,3,OK
+programacion dinamica,4,4,libre,D10,c,1,0.002400,432,4,3,OK
+programacion dinamica,4,4,libre,D10,c,2,0.000900,432,4,3,OK
+greedy,4,4,libre,D10,c,0,0.000300,0,-19,3,OK
+greedy,4,4,libre,D10,c,1,0.000700,0,-19,3,OK
+greedy,4,4,libre,D10,c,2,0.000100,0,-19,3,OK
+fuerza bruta,4,4,libre,D1000,a,0,0.001400,0,2712,3,OK
+fuerza bruta,4,4,libre,D1000,a,1,0.001100,0,2712,3,OK
+fuerza bruta,4,4,libre,D1000,a,2,0.000500,0,2712,3,OK
+programacion dinamica,4,4,libre,D1000,a,0,0.019300,432,2712,3,OK
+programacion dinamica,4,4,libre,D1000,a,1,0.001600,432,2712,3,OK
+programacion dinamica,4,4,libre,D1000,a,2,0.000600,432,2712,3,OK
+greedy,4,4,libre,D1000,a,0,0.000400,0,2712,3,OK
+greedy,4,4,libre,D1000,a,1,0.000500,0,2712,3,OK
+greedy,4,4,libre,D1000,a,2,0.000200,0,2712,3,OK
+fuerza bruta,4,4,libre,D1000,b,0,0.001400,0,2178,3,OK
+fuerza bruta,4,4,libre,D1000,b,1,0.001100,0,2178,3,OK
+fuerza bruta,4,4,libre,D1000,b,2,0.000400,0,2178,3,OK
+programacion dinamica,4,4,libre,D1000,b,0,0.002100,432,2178,3,OK
+programacion dinamica,4,4,libre,D1000,b,1,0.002200,432,2178,3,OK
+programacion dinamica,4,4,libre,D1000,b,2,0.000800,432,2178,3,OK
+greedy,4,4,libre,D1000,b,0,0.000300,0,2178,3,OK
+greedy,4,4,libre,D1000,b,1,0.000400,0,2178,3,OK
+greedy,4,4,libre,D1000,b,2,0.000100,0,2178,3,OK
+fuerza bruta,4,4,libre,D1000,c,0,0.001400,0,-574,3,OK
+fuerza bruta,4,4,libre,D1000,c,1,0.001300,0,-574,3,OK
+fuerza bruta,4,4,libre,D1000,c,2,0.000600,0,-574,3,OK
+programacion dinamica,4,4,libre,D1000,c,0,0.002000,432,-574,3,OK
+programacion dinamica,4,4,libre,D1000,c,1,0.003300,432,-574,3,OK
+programacion dinamica,4,4,libre,D1000,c,2,0.001200,432,-574,3,OK
+greedy,4,4,libre,D1000,c,0,0.000800,0,-574,3,OK
+greedy,4,4,libre,D1000,c,1,0.000600,0,-574,3,OK
+greedy,4,4,libre,D1000,c,2,0.000200,0,-574,3,OK
+fuerza bruta,4,4,murallas,D10,a,0,0.001800,0,-8,3,OK
+fuerza bruta,4,4,murallas,D10,a,1,0.002400,0,-8,3,OK
+fuerza bruta,4,4,murallas,D10,a,2,0.000200,0,-8,3,OK
+programacion dinamica,4,4,murallas,D10,a,0,0.004800,432,-8,3,OK
+programacion dinamica,4,4,murallas,D10,a,1,0.004500,432,-8,3,OK
+programacion dinamica,4,4,murallas,D10,a,2,0.001100,432,-8,3,OK
+greedy,4,4,murallas,D10,a,0,0.001000,0,-8,3,OK
+greedy,4,4,murallas,D10,a,1,0.000800,0,-8,3,OK
+greedy,4,4,murallas,D10,a,2,0.000100,0,-8,3,OK
+fuerza bruta,4,4,murallas,D10,b,0,0.001100,0,3,3,OK
+fuerza bruta,4,4,murallas,D10,b,1,0.001200,0,3,3,OK
+fuerza bruta,4,4,murallas,D10,b,2,0.000200,0,3,3,OK
+programacion dinamica,4,4,murallas,D10,b,0,0.002000,432,3,3,OK
+programacion dinamica,4,4,murallas,D10,b,1,0.003400,432,3,3,OK
+programacion dinamica,4,4,murallas,D10,b,2,0.000700,432,3,3,OK
+greedy,4,4,murallas,D10,b,0,0.000400,0,3,3,OK
+greedy,4,4,murallas,D10,b,1,0.000600,0,3,3,OK
+greedy,4,4,murallas,D10,b,2,0.000100,0,3,3,OK
+fuerza bruta,4,4,murallas,D10,c,0,0.000800,0,-12,3,OK
+fuerza bruta,4,4,murallas,D10,c,1,0.000800,0,-12,3,OK
+fuerza bruta,4,4,murallas,D10,c,2,0.000200,0,-12,3,OK
+programacion dinamica,4,4,murallas,D10,c,0,0.001700,432,-12,3,OK
+programacion dinamica,4,4,murallas,D10,c,1,0.001900,432,-12,3,OK
+programacion dinamica,4,4,murallas,D10,c,2,0.000700,432,-12,3,OK
+greedy,4,4,murallas,D10,c,0,0.000400,0,-12,3,OK
+greedy,4,4,murallas,D10,c,1,0.000600,0,-12,3,OK
+greedy,4,4,murallas,D10,c,2,0.000000,0,-12,3,OK
+fuerza bruta,4,4,murallas,D1000,a,0,0.001100,0,897,3,OK
+fuerza bruta,4,4,murallas,D1000,a,1,0.001000,0,897,3,OK
+fuerza bruta,4,4,murallas,D1000,a,2,0.000200,0,897,3,OK
+programacion dinamica,4,4,murallas,D1000,a,0,0.001900,432,897,3,OK
+programacion dinamica,4,4,murallas,D1000,a,1,0.002700,432,897,3,OK
+programacion dinamica,4,4,murallas,D1000,a,2,0.000800,432,897,3,OK
+greedy,4,4,murallas,D1000,a,0,0.000300,0,897,3,OK
+greedy,4,4,murallas,D1000,a,1,0.000600,0,897,3,OK
+greedy,4,4,murallas,D1000,a,2,0.000100,0,897,3,OK
+fuerza bruta,4,4,murallas,D1000,b,0,0.001800,0,1232,3,OK
+fuerza bruta,4,4,murallas,D1000,b,1,0.001200,0,1232,3,OK
+fuerza bruta,4,4,murallas,D1000,b,2,0.000200,0,1232,3,OK
+programacion dinamica,4,4,murallas,D1000,b,0,0.003600,432,1232,3,OK
+programacion dinamica,4,4,murallas,D1000,b,1,0.002300,432,1232,3,OK
+programacion dinamica,4,4,murallas,D1000,b,2,0.000600,432,1232,3,OK
+greedy,4,4,murallas,D1000,b,0,0.000300,0,,,SIN SOLUCION
+greedy,4,4,murallas,D1000,b,1,0.000300,0,,,SIN SOLUCION
+greedy,4,4,murallas,D1000,b,2,0.000000,0,,,SIN SOLUCION
+fuerza bruta,4,4,murallas,D1000,c,0,0.002500,0,719,3,OK
+fuerza bruta,4,4,murallas,D1000,c,1,0.002200,0,719,3,OK
+fuerza bruta,4,4,murallas,D1000,c,2,0.000400,0,719,3,OK
+programacion dinamica,4,4,murallas,D1000,c,0,0.004000,432,719,3,OK
+programacion dinamica,4,4,murallas,D1000,c,1,0.005700,432,719,3,OK
+programacion dinamica,4,4,murallas,D1000,c,2,0.001000,432,719,3,OK
+greedy,4,4,murallas,D1000,c,0,0.001000,0,,,SIN SOLUCION
+greedy,4,4,murallas,D1000,c,1,0.000500,0,,,SIN SOLUCION
+greedy,4,4,murallas,D1000,c,2,0.000100,0,,,SIN SOLUCION
+fuerza bruta,4,4,minas,D10,a,0,0.001700,0,5,3,OK
+fuerza bruta,4,4,minas,D10,a,1,0.001500,0,5,3,OK
+fuerza bruta,4,4,minas,D10,a,2,0.000600,0,5,3,OK
+programacion dinamica,4,4,minas,D10,a,0,0.002300,432,5,3,OK
+programacion dinamica,4,4,minas,D10,a,1,0.003500,432,5,3,OK
+programacion dinamica,4,4,minas,D10,a,2,0.001200,432,5,3,OK
+greedy,4,4,minas,D10,a,0,0.000700,0,5,3,OK
+greedy,4,4,minas,D10,a,1,0.001300,0,5,3,OK
+greedy,4,4,minas,D10,a,2,0.000200,0,5,3,OK
+fuerza bruta,4,4,minas,D10,b,0,0.002000,0,-11,3,OK
+fuerza bruta,4,4,minas,D10,b,1,0.002300,0,-11,3,OK
+fuerza bruta,4,4,minas,D10,b,2,0.001100,0,-11,3,OK
+programacion dinamica,4,4,minas,D10,b,0,0.004300,432,-11,3,OK
+programacion dinamica,4,4,minas,D10,b,1,0.004200,432,-11,3,OK
+programacion dinamica,4,4,minas,D10,b,2,0.001300,432,-11,3,OK
+greedy,4,4,minas,D10,b,0,0.000800,0,-11,3,OK
+greedy,4,4,minas,D10,b,1,0.000900,0,-11,3,OK
+greedy,4,4,minas,D10,b,2,0.000200,0,-11,3,OK
+fuerza bruta,4,4,minas,D10,c,0,0.001700,0,8,3,OK
+fuerza bruta,4,4,minas,D10,c,1,0.001300,0,8,3,OK
+fuerza bruta,4,4,minas,D10,c,2,0.000600,0,8,3,OK
+programacion dinamica,4,4,minas,D10,c,0,0.002200,432,8,3,OK
+programacion dinamica,4,4,minas,D10,c,1,0.003100,432,8,3,OK
+programacion dinamica,4,4,minas,D10,c,2,0.001100,432,8,3,OK
+greedy,4,4,minas,D10,c,0,0.000500,0,8,3,OK
+greedy,4,4,minas,D10,c,1,0.000600,0,8,3,OK
+greedy,4,4,minas,D10,c,2,0.000100,0,8,3,OK
+fuerza bruta,4,4,minas,D1000,a,0,0.002000,0,2134,3,OK
+fuerza bruta,4,4,minas,D1000,a,1,0.002100,0,2134,3,OK
+fuerza bruta,4,4,minas,D1000,a,2,0.000700,0,2134,3,OK
+programacion dinamica,4,4,minas,D1000,a,0,0.002700,432,2134,3,OK
+programacion dinamica,4,4,minas,D1000,a,1,0.003300,432,2134,3,OK
+programacion dinamica,4,4,minas,D1000,a,2,0.001200,432,2134,3,OK
+greedy,4,4,minas,D1000,a,0,0.000500,0,653,2,OK
+greedy,4,4,minas,D1000,a,1,0.001100,0,653,2,OK
+greedy,4,4,minas,D1000,a,2,0.000100,0,653,2,OK
+fuerza bruta,4,4,minas,D1000,b,0,0.001900,0,1323,3,OK
+fuerza bruta,4,4,minas,D1000,b,1,0.001900,0,1323,3,OK
+fuerza bruta,4,4,minas,D1000,b,2,0.000600,0,1323,3,OK
+programacion dinamica,4,4,minas,D1000,b,0,0.002400,432,1323,3,OK
+programacion dinamica,4,4,minas,D1000,b,1,0.002200,432,1323,3,OK
+programacion dinamica,4,4,minas,D1000,b,2,0.000800,432,1323,3,OK
+greedy,4,4,minas,D1000,b,0,0.000700,0,989,2,OK
+greedy,4,4,minas,D1000,b,1,0.000900,0,989,2,OK
+greedy,4,4,minas,D1000,b,2,0.000200,0,989,2,OK
+fuerza bruta,4,4,minas,D1000,c,0,0.001700,0,-472,3,OK
+fuerza bruta,4,4,minas,D1000,c,1,0.001700,0,-472,3,OK
+fuerza bruta,4,4,minas,D1000,c,2,0.000600,0,-472,3,OK
+programacion dinamica,4,4,minas,D1000,c,0,0.002000,432,-472,3,OK
+programacion dinamica,4,4,minas,D1000,c,1,0.002300,432,-472,3,OK
+programacion dinamica,4,4,minas,D1000,c,2,0.000800,432,-472,3,OK
+greedy,4,4,minas,D1000,c,0,0.000300,0,-472,3,OK
+greedy,4,4,minas,D1000,c,1,0.000300,0,-472,3,OK
+greedy,4,4,minas,D1000,c,2,0.000100,0,-472,3,OK
+fuerza bruta,4,4,mixta,D10,a,0,0.001000,0,0,3,OK
+fuerza bruta,4,4,mixta,D10,a,1,0.000800,0,0,3,OK
+fuerza bruta,4,4,mixta,D10,a,2,0.000200,0,0,3,OK
+programacion dinamica,4,4,mixta,D10,a,0,0.002200,432,0,3,OK
+programacion dinamica,4,4,mixta,D10,a,1,0.002200,432,0,3,OK
+programacion dinamica,4,4,mixta,D10,a,2,0.000700,432,0,3,OK
+greedy,4,4,mixta,D10,a,0,0.000400,0,0,3,OK
+greedy,4,4,mixta,D10,a,1,0.000500,0,0,3,OK
+greedy,4,4,mixta,D10,a,2,0.000000,0,0,3,OK
+fuerza bruta,4,4,mixta,D10,b,0,0.000600,0,-35,3,OK
+fuerza bruta,4,4,mixta,D10,b,1,0.000800,0,-35,3,OK
+fuerza bruta,4,4,mixta,D10,b,2,0.000100,0,-35,3,OK
+programacion dinamica,4,4,mixta,D10,b,0,0.001900,432,-35,3,OK
+programacion dinamica,4,4,mixta,D10,b,1,0.002100,432,-35,3,OK
+programacion dinamica,4,4,mixta,D10,b,2,0.000600,432,-35,3,OK
+greedy,4,4,mixta,D10,b,0,0.000400,0,-35,3,OK
+greedy,4,4,mixta,D10,b,1,0.000500,0,-35,3,OK
+greedy,4,4,mixta,D10,b,2,0.000100,0,-35,3,OK
+fuerza bruta,4,4,mixta,D10,c,0,0.001200,0,27,3,OK
+fuerza bruta,4,4,mixta,D10,c,1,0.001200,0,27,3,OK
+fuerza bruta,4,4,mixta,D10,c,2,0.000300,0,27,3,OK
+programacion dinamica,4,4,mixta,D10,c,0,0.001900,432,27,3,OK
+programacion dinamica,4,4,mixta,D10,c,1,0.001700,432,27,3,OK
+programacion dinamica,4,4,mixta,D10,c,2,0.000600,432,27,3,OK
+greedy,4,4,mixta,D10,c,0,0.000300,0,27,3,OK
+greedy,4,4,mixta,D10,c,1,0.000400,0,27,3,OK
+greedy,4,4,mixta,D10,c,2,0.000100,0,27,3,OK
+fuerza bruta,4,4,mixta,D1000,a,0,0.000800,0,1920,3,OK
+fuerza bruta,4,4,mixta,D1000,a,1,0.001800,0,1920,3,OK
+fuerza bruta,4,4,mixta,D1000,a,2,0.000300,0,1920,3,OK
+programacion dinamica,4,4,mixta,D1000,a,0,0.002300,432,1920,3,OK
+programacion dinamica,4,4,mixta,D1000,a,1,0.003200,432,1920,3,OK
+programacion dinamica,4,4,mixta,D1000,a,2,0.000800,432,1920,3,OK
+greedy,4,4,mixta,D1000,a,0,0.000400,0,1920,3,OK
+greedy,4,4,mixta,D1000,a,1,0.000700,0,1920,3,OK
+greedy,4,4,mixta,D1000,a,2,0.000100,0,1920,3,OK
+fuerza bruta,4,4,mixta,D1000,b,0,0.000900,0,922,3,OK
+fuerza bruta,4,4,mixta,D1000,b,1,0.000700,0,922,3,OK
+fuerza bruta,4,4,mixta,D1000,b,2,0.000100,0,922,3,OK
+programacion dinamica,4,4,mixta,D1000,b,0,0.002200,432,922,3,OK
+programacion dinamica,4,4,mixta,D1000,b,1,0.002400,432,922,3,OK
+programacion dinamica,4,4,mixta,D1000,b,2,0.000600,432,922,3,OK
+greedy,4,4,mixta,D1000,b,0,0.000300,0,922,3,OK
+greedy,4,4,mixta,D1000,b,1,0.000600,0,922,3,OK
+greedy,4,4,mixta,D1000,b,2,0.000000,0,922,3,OK
+fuerza bruta,4,4,mixta,D1000,c,0,0.000900,0,-602,3,OK
+fuerza bruta,4,4,mixta,D1000,c,1,0.001100,0,-602,3,OK
+fuerza bruta,4,4,mixta,D1000,c,2,0.000400,0,-602,3,OK
+programacion dinamica,4,4,mixta,D1000,c,0,0.002200,432,-602,3,OK
+programacion dinamica,4,4,mixta,D1000,c,1,0.002100,432,-602,3,OK
+programacion dinamica,4,4,mixta,D1000,c,2,0.000700,432,-602,3,OK
+greedy,4,4,mixta,D1000,c,0,0.000300,0,-602,3,OK
+greedy,4,4,mixta,D1000,c,1,0.000600,0,-602,3,OK
+greedy,4,4,mixta,D1000,c,2,0.000100,0,-602,3,OK
+fuerza bruta,4,8,libre,D10,a,0,0.003700,0,55,3,OK
+fuerza bruta,4,8,libre,D10,a,1,0.004000,0,55,3,OK
+fuerza bruta,4,8,libre,D10,a,2,0.002900,0,55,3,OK
+programacion dinamica,4,8,libre,D10,a,0,0.002100,864,55,3,OK
+programacion dinamica,4,8,libre,D10,a,1,0.001900,864,55,3,OK
+programacion dinamica,4,8,libre,D10,a,2,0.000900,864,55,3,OK
+greedy,4,8,libre,D10,a,0,0.000300,0,33,3,OK
+greedy,4,8,libre,D10,a,1,0.019600,0,33,3,OK
+greedy,4,8,libre,D10,a,2,0.000200,0,33,3,OK
+fuerza bruta,4,8,libre,D10,b,0,0.003700,0,7,3,OK
+fuerza bruta,4,8,libre,D10,b,1,0.004100,0,7,3,OK
+fuerza bruta,4,8,libre,D10,b,2,0.002800,0,7,3,OK
+programacion dinamica,4,8,libre,D10,b,0,0.002600,864,7,3,OK
+programacion dinamica,4,8,libre,D10,b,1,0.002800,864,7,3,OK
+programacion dinamica,4,8,libre,D10,b,2,0.000900,864,7,3,OK
+greedy,4,8,libre,D10,b,0,0.000500,0,7,3,OK
+greedy,4,8,libre,D10,b,1,0.000700,0,7,3,OK
+greedy,4,8,libre,D10,b,2,0.000100,0,7,3,OK
+fuerza bruta,4,8,libre,D10,c,0,0.003800,0,48,3,OK
+fuerza bruta,4,8,libre,D10,c,1,0.003700,0,48,3,OK
+fuerza bruta,4,8,libre,D10,c,2,0.002800,0,48,3,OK
+programacion dinamica,4,8,libre,D10,c,0,0.002100,864,48,3,OK
+programacion dinamica,4,8,libre,D10,c,1,0.009400,864,48,3,OK
+programacion dinamica,4,8,libre,D10,c,2,0.001100,864,48,3,OK
+greedy,4,8,libre,D10,c,0,0.000400,0,11,3,OK
+greedy,4,8,libre,D10,c,1,0.000400,0,11,3,OK
+greedy,4,8,libre,D10,c,2,0.000100,0,11,3,OK
+fuerza bruta,4,8,libre,D1000,a,0,0.004500,0,602,3,OK
+fuerza bruta,4,8,libre,D1000,a,1,0.003800,0,602,3,OK
+fuerza bruta,4,8,libre,D1000,a,2,0.002900,0,602,3,OK
+programacion dinamica,4,8,libre,D1000,a,0,0.002400,864,602,3,OK
+programacion dinamica,4,8,libre,D1000,a,1,0.001800,864,602,3,OK
+programacion dinamica,4,8,libre,D1000,a,2,0.000900,864,602,3,OK
+greedy,4,8,libre,D1000,a,0,0.000300,0,-610,3,OK
+greedy,4,8,libre,D1000,a,1,0.000600,0,-610,3,OK
+greedy,4,8,libre,D1000,a,2,0.000100,0,-610,3,OK
+fuerza bruta,4,8,libre,D1000,b,0,0.003600,0,2879,3,OK
+fuerza bruta,4,8,libre,D1000,b,1,0.003700,0,2879,3,OK
+fuerza bruta,4,8,libre,D1000,b,2,0.002800,0,2879,3,OK
+programacion dinamica,4,8,libre,D1000,b,0,0.002000,864,2879,3,OK
+programacion dinamica,4,8,libre,D1000,b,1,0.001700,864,2879,3,OK
+programacion dinamica,4,8,libre,D1000,b,2,0.000800,864,2879,3,OK
+greedy,4,8,libre,D1000,b,0,0.000300,0,2879,3,OK
+greedy,4,8,libre,D1000,b,1,0.000400,0,2879,3,OK
+greedy,4,8,libre,D1000,b,2,0.000100,0,2879,3,OK
+fuerza bruta,4,8,libre,D1000,c,0,0.003200,0,3251,3,OK
+fuerza bruta,4,8,libre,D1000,c,1,0.003400,0,3251,3,OK
+fuerza bruta,4,8,libre,D1000,c,2,0.002700,0,3251,3,OK
+programacion dinamica,4,8,libre,D1000,c,0,0.001900,864,3251,3,OK
+programacion dinamica,4,8,libre,D1000,c,1,0.003000,864,3251,3,OK
+programacion dinamica,4,8,libre,D1000,c,2,0.001700,864,3251,3,OK
+greedy,4,8,libre,D1000,c,0,0.000500,0,3251,3,OK
+greedy,4,8,libre,D1000,c,1,0.003400,0,3251,3,OK
+greedy,4,8,libre,D1000,c,2,0.000200,0,3251,3,OK
+fuerza bruta,4,8,murallas,D10,a,0,0.003300,0,15,3,OK
+fuerza bruta,4,8,murallas,D10,a,1,0.002700,0,15,3,OK
+fuerza bruta,4,8,murallas,D10,a,2,0.001800,0,15,3,OK
+programacion dinamica,4,8,murallas,D10,a,0,0.002900,864,15,3,OK
+programacion dinamica,4,8,murallas,D10,a,1,0.003300,864,15,3,OK
+programacion dinamica,4,8,murallas,D10,a,2,0.001000,864,15,3,OK
+greedy,4,8,murallas,D10,a,0,0.000300,0,-2,3,OK
+greedy,4,8,murallas,D10,a,1,0.000900,0,-2,3,OK
+greedy,4,8,murallas,D10,a,2,0.000100,0,-2,3,OK
+fuerza bruta,4,8,murallas,D10,b,0,0.001500,0,12,3,OK
+fuerza bruta,4,8,murallas,D10,b,1,0.001200,0,12,3,OK
+fuerza bruta,4,8,murallas,D10,b,2,0.000700,0,12,3,OK
+programacion dinamica,4,8,murallas,D10,b,0,0.002100,864,12,3,OK
+programacion dinamica,4,8,murallas,D10,b,1,0.002100,864,12,3,OK
+programacion dinamica,4,8,murallas,D10,b,2,0.001000,864,12,3,OK
+greedy,4,8,murallas,D10,b,0,0.000200,0,,,SIN SOLUCION
+greedy,4,8,murallas,D10,b,1,0.000400,0,,,SIN SOLUCION
+greedy,4,8,murallas,D10,b,2,0.000100,0,,,SIN SOLUCION
+fuerza bruta,4,8,murallas,D10,c,0,0.001900,0,48,3,OK
+fuerza bruta,4,8,murallas,D10,c,1,0.002000,0,48,3,OK
+fuerza bruta,4,8,murallas,D10,c,2,0.001000,0,48,3,OK
+programacion dinamica,4,8,murallas,D10,c,0,0.002500,864,48,3,OK
+programacion dinamica,4,8,murallas,D10,c,1,0.002700,864,48,3,OK
+programacion dinamica,4,8,murallas,D10,c,2,0.001100,864,48,3,OK
+greedy,4,8,murallas,D10,c,0,0.000300,0,48,3,OK
+greedy,4,8,murallas,D10,c,1,0.000700,0,48,3,OK
+greedy,4,8,murallas,D10,c,2,0.000100,0,48,3,OK
+fuerza bruta,4,8,murallas,D1000,a,0,0.002800,0,1993,3,OK
+fuerza bruta,4,8,murallas,D1000,a,1,0.002900,0,1993,3,OK
+fuerza bruta,4,8,murallas,D1000,a,2,0.001900,0,1993,3,OK
+programacion dinamica,4,8,murallas,D1000,a,0,0.002200,864,1993,3,OK
+programacion dinamica,4,8,murallas,D1000,a,1,0.002100,864,1993,3,OK
+programacion dinamica,4,8,murallas,D1000,a,2,0.000900,864,1993,3,OK
+greedy,4,8,murallas,D1000,a,0,0.000200,0,,,SIN SOLUCION
+greedy,4,8,murallas,D1000,a,1,0.000200,0,,,SIN SOLUCION
+greedy,4,8,murallas,D1000,a,2,0.000100,0,,,SIN SOLUCION
+fuerza bruta,4,8,murallas,D1000,b,0,0.002600,0,2413,3,OK
+fuerza bruta,4,8,murallas,D1000,b,1,0.003100,0,2413,3,OK
+fuerza bruta,4,8,murallas,D1000,b,2,0.001400,0,2413,3,OK
+programacion dinamica,4,8,murallas,D1000,b,0,0.002500,864,2413,3,OK
+programacion dinamica,4,8,murallas,D1000,b,1,0.001900,864,2413,3,OK
+programacion dinamica,4,8,murallas,D1000,b,2,0.001000,864,2413,3,OK
+greedy,4,8,murallas,D1000,b,0,0.000400,0,1714,3,OK
+greedy,4,8,murallas,D1000,b,1,0.000500,0,1714,3,OK
+greedy,4,8,murallas,D1000,b,2,0.000100,0,1714,3,OK
+fuerza bruta,4,8,murallas,D1000,c,0,0.002100,0,2699,3,OK
+fuerza bruta,4,8,murallas,D1000,c,1,0.002300,0,2699,3,OK
+fuerza bruta,4,8,murallas,D1000,c,2,0.001300,0,2699,3,OK
+programacion dinamica,4,8,murallas,D1000,c,0,0.002300,864,2699,3,OK
+programacion dinamica,4,8,murallas,D1000,c,1,0.002300,864,2699,3,OK
+programacion dinamica,4,8,murallas,D1000,c,2,0.000900,864,2699,3,OK
+greedy,4,8,murallas,D1000,c,0,0.000400,0,2332,3,OK
+greedy,4,8,murallas,D1000,c,1,0.000800,0,2332,3,OK
+greedy,4,8,murallas,D1000,c,2,0.000200,0,2332,3,OK
+fuerza bruta,4,8,minas,D10,a,0,0.004100,0,23,3,OK
+fuerza bruta,4,8,minas,D10,a,1,0.004400,0,23,3,OK
+fuerza bruta,4,8,minas,D10,a,2,0.002900,0,23,3,OK
+programacion dinamica,4,8,minas,D10,a,0,0.002500,864,23,3,OK
+programacion dinamica,4,8,minas,D10,a,1,0.002100,864,23,3,OK
+programacion dinamica,4,8,minas,D10,a,2,0.001000,864,23,3,OK
+greedy,4,8,minas,D10,a,0,0.000300,0,-1,2,OK
+greedy,4,8,minas,D10,a,1,0.000600,0,-1,2,OK
+greedy,4,8,minas,D10,a,2,0.000200,0,-1,2,OK
+fuerza bruta,4,8,minas,D10,b,0,0.004900,0,29,3,OK
+fuerza bruta,4,8,minas,D10,b,1,0.004600,0,29,3,OK
+fuerza bruta,4,8,minas,D10,b,2,0.003000,0,29,3,OK
+programacion dinamica,4,8,minas,D10,b,0,0.002900,864,29,3,OK
+programacion dinamica,4,8,minas,D10,b,1,0.003000,864,29,3,OK
+programacion dinamica,4,8,minas,D10,b,2,0.001200,864,29,3,OK
+greedy,4,8,minas,D10,b,0,0.000400,0,29,3,OK
+greedy,4,8,minas,D10,b,1,0.000600,0,29,3,OK
+greedy,4,8,minas,D10,b,2,0.000100,0,29,3,OK
+fuerza bruta,4,8,minas,D10,c,0,0.004600,0,31,3,OK
+fuerza bruta,4,8,minas,D10,c,1,0.005000,0,31,3,OK
+fuerza bruta,4,8,minas,D10,c,2,0.003100,0,31,3,OK
+programacion dinamica,4,8,minas,D10,c,0,0.002900,864,31,3,OK
+programacion dinamica,4,8,minas,D10,c,1,0.003500,864,31,3,OK
+programacion dinamica,4,8,minas,D10,c,2,0.001300,864,31,3,OK
+greedy,4,8,minas,D10,c,0,0.000500,0,31,3,OK
+greedy,4,8,minas,D10,c,1,0.000800,0,31,3,OK
+greedy,4,8,minas,D10,c,2,0.000200,0,31,3,OK
+fuerza bruta,4,8,minas,D1000,a,0,0.004600,0,2490,3,OK
+fuerza bruta,4,8,minas,D1000,a,1,0.004500,0,2490,3,OK
+fuerza bruta,4,8,minas,D1000,a,2,0.002900,0,2490,3,OK
+programacion dinamica,4,8,minas,D1000,a,0,0.002400,864,2490,3,OK
+programacion dinamica,4,8,minas,D1000,a,1,0.003100,864,2490,3,OK
+programacion dinamica,4,8,minas,D1000,a,2,0.001200,864,2490,3,OK
+greedy,4,8,minas,D1000,a,0,0.000300,0,671,3,OK
+greedy,4,8,minas,D1000,a,1,0.000700,0,671,3,OK
+greedy,4,8,minas,D1000,a,2,0.000200,0,671,3,OK
+fuerza bruta,4,8,minas,D1000,b,0,0.004100,0,312,3,OK
+fuerza bruta,4,8,minas,D1000,b,1,0.004100,0,312,3,OK
+fuerza bruta,4,8,minas,D1000,b,2,0.002900,0,312,3,OK
+programacion dinamica,4,8,minas,D1000,b,0,0.002700,864,312,3,OK
+programacion dinamica,4,8,minas,D1000,b,1,0.002100,864,312,3,OK
+programacion dinamica,4,8,minas,D1000,b,2,0.001000,864,312,3,OK
+greedy,4,8,minas,D1000,b,0,0.000300,0,,,SIN SOLUCION
+greedy,4,8,minas,D1000,b,1,0.000300,0,,,SIN SOLUCION
+greedy,4,8,minas,D1000,b,2,0.000100,0,,,SIN SOLUCION
+fuerza bruta,4,8,minas,D1000,c,0,0.004200,0,3809,3,OK
+fuerza bruta,4,8,minas,D1000,c,1,0.004600,0,3809,3,OK
+fuerza bruta,4,8,minas,D1000,c,2,0.002900,0,3809,3,OK
+programacion dinamica,4,8,minas,D1000,c,0,0.002400,864,3809,3,OK
+programacion dinamica,4,8,minas,D1000,c,1,0.002700,864,3809,3,OK
+programacion dinamica,4,8,minas,D1000,c,2,0.001100,864,3809,3,OK
+greedy,4,8,minas,D1000,c,0,0.000300,0,3809,3,OK
+greedy,4,8,minas,D1000,c,1,0.000700,0,3809,3,OK
+greedy,4,8,minas,D1000,c,2,0.000200,0,3809,3,OK
+fuerza bruta,4,8,mixta,D10,a,0,0.002200,0,24,3,OK
+fuerza bruta,4,8,mixta,D10,a,1,0.002200,0,24,3,OK
+fuerza bruta,4,8,mixta,D10,a,2,0.001200,0,24,3,OK
+programacion dinamica,4,8,mixta,D10,a,0,0.002600,864,24,3,OK
+programacion dinamica,4,8,mixta,D10,a,1,0.004400,864,24,3,OK
+programacion dinamica,4,8,mixta,D10,a,2,0.001400,864,24,3,OK
+greedy,4,8,mixta,D10,a,0,0.000500,0,24,3,OK
+greedy,4,8,mixta,D10,a,1,0.000800,0,24,3,OK
+greedy,4,8,mixta,D10,a,2,0.000100,0,24,3,OK
+fuerza bruta,4,8,mixta,D10,b,0,0.002300,0,3,1,OK
+fuerza bruta,4,8,mixta,D10,b,1,0.002900,0,3,1,OK
+fuerza bruta,4,8,mixta,D10,b,2,0.001000,0,3,1,OK
+programacion dinamica,4,8,mixta,D10,b,0,0.003000,864,3,1,OK
+programacion dinamica,4,8,mixta,D10,b,1,0.003000,864,3,1,OK
+programacion dinamica,4,8,mixta,D10,b,2,0.001100,864,3,1,OK
+greedy,4,8,mixta,D10,b,0,0.000500,0,3,1,OK
+greedy,4,8,mixta,D10,b,1,0.000800,0,3,1,OK
+greedy,4,8,mixta,D10,b,2,0.000200,0,3,1,OK
+fuerza bruta,4,8,mixta,D10,c,0,0.002400,0,18,2,OK
+fuerza bruta,4,8,mixta,D10,c,1,0.002100,0,18,2,OK
+fuerza bruta,4,8,mixta,D10,c,2,0.001100,0,18,2,OK
+programacion dinamica,4,8,mixta,D10,c,0,0.003000,864,18,2,OK
+programacion dinamica,4,8,mixta,D10,c,1,0.003300,864,18,2,OK
+programacion dinamica,4,8,mixta,D10,c,2,0.001200,864,18,2,OK
+greedy,4,8,mixta,D10,c,0,0.000300,0,,,SIN SOLUCION
+greedy,4,8,mixta,D10,c,1,0.000500,0,,,SIN SOLUCION
+greedy,4,8,mixta,D10,c,2,0.000100,0,,,SIN SOLUCION
+fuerza bruta,4,8,mixta,D1000,a,0,0.002000,0,-396,3,OK
+fuerza bruta,4,8,mixta,D1000,a,1,0.001900,0,-396,3,OK
+fuerza bruta,4,8,mixta,D1000,a,2,0.001100,0,-396,3,OK
+programacion dinamica,4,8,mixta,D1000,a,0,0.003300,864,-396,3,OK
+programacion dinamica,4,8,mixta,D1000,a,1,0.003700,864,-396,3,OK
+programacion dinamica,4,8,mixta,D1000,a,2,0.001000,864,-396,3,OK
+greedy,4,8,mixta,D1000,a,0,0.000500,0,-1146,3,OK
+greedy,4,8,mixta,D1000,a,1,0.000500,0,-1146,3,OK
+greedy,4,8,mixta,D1000,a,2,0.000200,0,-1146,3,OK
+fuerza bruta,4,8,mixta,D1000,b,0,0.001900,0,1996,3,OK
+fuerza bruta,4,8,mixta,D1000,b,1,0.001800,0,1996,3,OK
+fuerza bruta,4,8,mixta,D1000,b,2,0.000500,0,1996,3,OK
+programacion dinamica,4,8,mixta,D1000,b,0,0.002800,864,1996,3,OK
+programacion dinamica,4,8,mixta,D1000,b,1,0.003100,864,1996,3,OK
+programacion dinamica,4,8,mixta,D1000,b,2,0.001100,864,1996,3,OK
+greedy,4,8,mixta,D1000,b,0,0.000300,0,1996,3,OK
+greedy,4,8,mixta,D1000,b,1,0.000900,0,1996,3,OK
+greedy,4,8,mixta,D1000,b,2,0.000100,0,1996,3,OK
+fuerza bruta,4,8,mixta,D1000,c,0,0.002200,0,-512,2,OK
+fuerza bruta,4,8,mixta,D1000,c,1,0.001700,0,-512,2,OK
+fuerza bruta,4,8,mixta,D1000,c,2,0.001000,0,-512,2,OK
+programacion dinamica,4,8,mixta,D1000,c,0,0.002300,864,-512,2,OK
+programacion dinamica,4,8,mixta,D1000,c,1,0.001800,864,-512,2,OK
+programacion dinamica,4,8,mixta,D1000,c,2,0.000900,864,-512,2,OK
+greedy,4,8,mixta,D1000,c,0,0.000300,0,-944,3,OK
+greedy,4,8,mixta,D1000,c,1,0.000700,0,-944,3,OK
+greedy,4,8,mixta,D1000,c,2,0.000100,0,-944,3,OK
+fuerza bruta,8,8,libre,D10,a,0,0.072600,31,69,3,OK
+fuerza bruta,8,8,libre,D10,a,1,0.067000,31,69,3,OK
+fuerza bruta,8,8,libre,D10,a,2,0.066200,31,69,3,OK
+programacion dinamica,8,8,libre,D10,a,0,0.002600,1759,69,3,OK
+programacion dinamica,8,8,libre,D10,a,1,0.002400,1759,69,3,OK
+programacion dinamica,8,8,libre,D10,a,2,0.001400,1759,69,3,OK
+greedy,8,8,libre,D10,a,0,0.000500,31,1,3,OK
+greedy,8,8,libre,D10,a,1,0.000700,31,1,3,OK
+greedy,8,8,libre,D10,a,2,0.000200,31,1,3,OK
+fuerza bruta,8,8,libre,D10,b,0,0.073600,31,66,3,OK
+fuerza bruta,8,8,libre,D10,b,1,0.068300,31,66,3,OK
+fuerza bruta,8,8,libre,D10,b,2,0.065900,31,66,3,OK
+programacion dinamica,8,8,libre,D10,b,0,0.003200,1759,66,3,OK
+programacion dinamica,8,8,libre,D10,b,1,0.005300,1759,66,3,OK
+programacion dinamica,8,8,libre,D10,b,2,0.002300,1759,66,3,OK
+greedy,8,8,libre,D10,b,0,0.000900,31,63,3,OK
+greedy,8,8,libre,D10,b,1,0.002800,31,63,3,OK
+greedy,8,8,libre,D10,b,2,0.000500,31,63,3,OK
+fuerza bruta,8,8,libre,D10,c,0,0.070000,31,39,3,OK
+fuerza bruta,8,8,libre,D10,c,1,0.078600,31,39,3,OK
+fuerza bruta,8,8,libre,D10,c,2,0.067300,31,39,3,OK
+programacion dinamica,8,8,libre,D10,c,0,0.003900,1759,39,3,OK
+programacion dinamica,8,8,libre,D10,c,1,0.006300,1759,39,3,OK
+programacion dinamica,8,8,libre,D10,c,2,0.002300,1759,39,3,OK
+greedy,8,8,libre,D10,c,0,0.001000,31,39,3,OK
+greedy,8,8,libre,D10,c,1,0.001500,31,39,3,OK
+greedy,8,8,libre,D10,c,2,0.000200,31,39,3,OK
+fuerza bruta,8,8,libre,D1000,a,0,0.069300,31,5139,3,OK
+fuerza bruta,8,8,libre,D1000,a,1,0.067500,31,5139,3,OK
+fuerza bruta,8,8,libre,D1000,a,2,0.065900,31,5139,3,OK
+programacion dinamica,8,8,libre,D1000,a,0,0.003100,1759,5139,3,OK
+programacion dinamica,8,8,libre,D1000,a,1,0.003200,1759,5139,3,OK
+programacion dinamica,8,8,libre,D1000,a,2,0.001500,1759,5139,3,OK
+greedy,8,8,libre,D1000,a,0,0.000500,31,5139,3,OK
+greedy,8,8,libre,D1000,a,1,0.001000,31,5139,3,OK
+greedy,8,8,libre,D1000,a,2,0.000300,31,5139,3,OK
+fuerza bruta,8,8,libre,D1000,b,0,0.082900,31,5232,3,OK
+fuerza bruta,8,8,libre,D1000,b,1,0.069200,31,5232,3,OK
+fuerza bruta,8,8,libre,D1000,b,2,0.064300,31,5232,3,OK
+programacion dinamica,8,8,libre,D1000,b,0,0.003000,1759,5232,3,OK
+programacion dinamica,8,8,libre,D1000,b,1,0.005100,1759,5232,3,OK
+programacion dinamica,8,8,libre,D1000,b,2,0.002200,1759,5232,3,OK
+greedy,8,8,libre,D1000,b,0,0.001100,31,2835,3,OK
+greedy,8,8,libre,D1000,b,1,0.001100,31,2835,3,OK
+greedy,8,8,libre,D1000,b,2,0.000300,31,2835,3,OK
+fuerza bruta,8,8,libre,D1000,c,0,0.069000,31,4819,3,OK
+fuerza bruta,8,8,libre,D1000,c,1,0.085800,31,4819,3,OK
+fuerza bruta,8,8,libre,D1000,c,2,0.066500,31,4819,3,OK
+programacion dinamica,8,8,libre,D1000,c,0,0.003100,1759,4819,3,OK
+programacion dinamica,8,8,libre,D1000,c,1,0.003400,1759,4819,3,OK
+programacion dinamica,8,8,libre,D1000,c,2,0.001600,1759,4819,3,OK
+greedy,8,8,libre,D1000,c,0,0.000500,31,4071,3,OK
+greedy,8,8,libre,D1000,c,1,0.001200,31,4071,3,OK
+greedy,8,8,libre,D1000,c,2,0.000400,31,4071,3,OK
+fuerza bruta,8,8,murallas,D10,a,0,0.028500,31,65,3,OK
+fuerza bruta,8,8,murallas,D10,a,1,0.019000,31,65,3,OK
+fuerza bruta,8,8,murallas,D10,a,2,0.015300,31,65,3,OK
+programacion dinamica,8,8,murallas,D10,a,0,0.004300,1759,65,3,OK
+programacion dinamica,8,8,murallas,D10,a,1,0.003700,1759,65,3,OK
+programacion dinamica,8,8,murallas,D10,a,2,0.001500,1759,65,3,OK
+greedy,8,8,murallas,D10,a,0,0.000600,31,60,3,OK
+greedy,8,8,murallas,D10,a,1,0.000700,31,60,3,OK
+greedy,8,8,murallas,D10,a,2,0.000200,31,60,3,OK
+fuerza bruta,8,8,murallas,D10,b,0,0.019200,31,64,3,OK
+fuerza bruta,8,8,murallas,D10,b,1,0.019000,31,64,3,OK
+fuerza bruta,8,8,murallas,D10,b,2,0.017400,31,64,3,OK
+programacion dinamica,8,8,murallas,D10,b,0,0.003100,1759,64,3,OK
+programacion dinamica,8,8,murallas,D10,b,1,0.002900,1759,64,3,OK
+programacion dinamica,8,8,murallas,D10,b,2,0.001400,1759,64,3,OK
+greedy,8,8,murallas,D10,b,0,0.000500,31,50,3,OK
+greedy,8,8,murallas,D10,b,1,0.001000,31,50,3,OK
+greedy,8,8,murallas,D10,b,2,0.000200,31,50,3,OK
+fuerza bruta,8,8,murallas,D10,c,0,0.016100,31,47,3,OK
+fuerza bruta,8,8,murallas,D10,c,1,0.015600,31,47,3,OK
+fuerza bruta,8,8,murallas,D10,c,2,0.014300,31,47,3,OK
+programacion dinamica,8,8,murallas,D10,c,0,0.003500,1759,47,3,OK
+programacion dinamica,8,8,murallas,D10,c,1,0.003500,1759,47,3,OK
+programacion dinamica,8,8,murallas,D10,c,2,0.001600,1759,47,3,OK
+greedy,8,8,murallas,D10,c,0,0.000600,31,47,3,OK
+greedy,8,8,murallas,D10,c,1,0.001200,31,47,3,OK
+greedy,8,8,murallas,D10,c,2,0.000300,31,47,3,OK
+fuerza bruta,8,8,murallas,D1000,a,0,0.013700,31,3608,3,OK
+fuerza bruta,8,8,murallas,D1000,a,1,0.050300,31,3608,3,OK
+fuerza bruta,8,8,murallas,D1000,a,2,0.011800,31,3608,3,OK
+programacion dinamica,8,8,murallas,D1000,a,0,0.003500,1759,3608,3,OK
+programacion dinamica,8,8,murallas,D1000,a,1,0.003400,1759,3608,3,OK
+programacion dinamica,8,8,murallas,D1000,a,2,0.002400,1759,3608,3,OK
+greedy,8,8,murallas,D1000,a,0,0.000700,31,3076,3,OK
+greedy,8,8,murallas,D1000,a,1,0.001200,31,3076,3,OK
+greedy,8,8,murallas,D1000,a,2,0.000300,31,3076,3,OK
+fuerza bruta,8,8,murallas,D1000,b,0,0.017700,31,5971,3,OK
+fuerza bruta,8,8,murallas,D1000,b,1,0.017600,31,5971,3,OK
+fuerza bruta,8,8,murallas,D1000,b,2,0.015700,31,5971,3,OK
+programacion dinamica,8,8,murallas,D1000,b,0,0.003800,1759,5971,3,OK
+programacion dinamica,8,8,murallas,D1000,b,1,0.003900,1759,5971,3,OK
+programacion dinamica,8,8,murallas,D1000,b,2,0.001500,1759,5971,3,OK
+greedy,8,8,murallas,D1000,b,0,0.000500,31,5971,3,OK
+greedy,8,8,murallas,D1000,b,1,0.001100,31,5971,3,OK
+greedy,8,8,murallas,D1000,b,2,0.000400,31,5971,3,OK
+fuerza bruta,8,8,murallas,D1000,c,0,0.020800,31,6046,3,OK
+fuerza bruta,8,8,murallas,D1000,c,1,0.020100,31,6046,3,OK
+fuerza bruta,8,8,murallas,D1000,c,2,0.018200,31,6046,3,OK
+programacion dinamica,8,8,murallas,D1000,c,0,0.003900,1759,6046,3,OK
+programacion dinamica,8,8,murallas,D1000,c,1,0.005300,1759,6046,3,OK
+programacion dinamica,8,8,murallas,D1000,c,2,0.001600,1759,6046,3,OK
+greedy,8,8,murallas,D1000,c,0,0.001200,31,6046,3,OK
+greedy,8,8,murallas,D1000,c,1,0.002000,31,6046,3,OK
+greedy,8,8,murallas,D1000,c,2,0.000500,31,6046,3,OK
+fuerza bruta,8,8,minas,D10,a,0,0.067000,31,59,2,OK
+fuerza bruta,8,8,minas,D10,a,1,0.094600,31,59,2,OK
+fuerza bruta,8,8,minas,D10,a,2,0.063400,31,59,2,OK
+programacion dinamica,8,8,minas,D10,a,0,0.004100,1759,59,2,OK
+programacion dinamica,8,8,minas,D10,a,1,0.004500,1759,59,2,OK
+programacion dinamica,8,8,minas,D10,a,2,0.001800,1759,59,2,OK
+greedy,8,8,minas,D10,a,0,0.000600,31,41,2,OK
+greedy,8,8,minas,D10,a,1,0.001600,31,41,2,OK
+greedy,8,8,minas,D10,a,2,0.000500,31,41,2,OK
+fuerza bruta,8,8,minas,D10,b,0,0.068000,31,52,3,OK
+fuerza bruta,8,8,minas,D10,b,1,0.068200,31,52,3,OK
+fuerza bruta,8,8,minas,D10,b,2,0.071000,31,52,3,OK
+programacion dinamica,8,8,minas,D10,b,0,0.004100,1759,52,3,OK
+programacion dinamica,8,8,minas,D10,b,1,0.005300,1759,52,3,OK
+programacion dinamica,8,8,minas,D10,b,2,0.001800,1759,52,3,OK
+greedy,8,8,minas,D10,b,0,0.000500,31,47,2,OK
+greedy,8,8,minas,D10,b,1,0.001200,31,47,2,OK
+greedy,8,8,minas,D10,b,2,0.000300,31,47,2,OK
+fuerza bruta,8,8,minas,D10,c,0,0.081600,31,4,3,OK
+fuerza bruta,8,8,minas,D10,c,1,0.076300,31,4,3,OK
+fuerza bruta,8,8,minas,D10,c,2,0.065600,31,4,3,OK
+programacion dinamica,8,8,minas,D10,c,0,0.004000,1759,4,3,OK
+programacion dinamica,8,8,minas,D10,c,1,0.003700,1759,4,3,OK
+programacion dinamica,8,8,minas,D10,c,2,0.001700,1759,4,3,OK
+greedy,8,8,minas,D10,c,0,0.000500,31,-4,3,OK
+greedy,8,8,minas,D10,c,1,0.001700,31,-4,3,OK
+greedy,8,8,minas,D10,c,2,0.000400,31,-4,3,OK
+fuerza bruta,8,8,minas,D1000,a,0,0.067400,31,3080,3,OK
+fuerza bruta,8,8,minas,D1000,a,1,0.066900,31,3080,3,OK
+fuerza bruta,8,8,minas,D1000,a,2,0.068600,31,3080,3,OK
+programacion dinamica,8,8,minas,D1000,a,0,0.003700,1759,3080,3,OK
+programacion dinamica,8,8,minas,D1000,a,1,0.003100,1759,3080,3,OK
+programacion dinamica,8,8,minas,D1000,a,2,0.001600,1759,3080,3,OK
+greedy,8,8,minas,D1000,a,0,0.000500,31,3080,3,OK
+greedy,8,8,minas,D1000,a,1,0.001000,31,3080,3,OK
+greedy,8,8,minas,D1000,a,2,0.000300,31,3080,3,OK
+fuerza bruta,8,8,minas,D1000,b,0,0.066100,31,4181,3,OK
+fuerza bruta,8,8,minas,D1000,b,1,0.078900,31,4181,3,OK
+fuerza bruta,8,8,minas,D1000,b,2,0.062600,31,4181,3,OK
+programacion dinamica,8,8,minas,D1000,b,0,0.003900,1759,4181,3,OK
+programacion dinamica,8,8,minas,D1000,b,1,0.003300,1759,4181,3,OK
+programacion dinamica,8,8,minas,D1000,b,2,0.001400,1759,4181,3,OK
+greedy,8,8,minas,D1000,b,0,0.000500,31,4038,3,OK
+greedy,8,8,minas,D1000,b,1,0.001200,31,4038,3,OK
+greedy,8,8,minas,D1000,b,2,0.000200,31,4038,3,OK
+fuerza bruta,8,8,minas,D1000,c,0,0.067100,31,6,3,OK
+fuerza bruta,8,8,minas,D1000,c,1,0.066700,31,6,3,OK
+fuerza bruta,8,8,minas,D1000,c,2,0.067900,31,6,3,OK
+programacion dinamica,8,8,minas,D1000,c,0,0.003700,1759,6,3,OK
+programacion dinamica,8,8,minas,D1000,c,1,0.005400,1759,6,3,OK
+programacion dinamica,8,8,minas,D1000,c,2,0.001800,1759,6,3,OK
+greedy,8,8,minas,D1000,c,0,0.000600,31,-399,2,OK
+greedy,8,8,minas,D1000,c,1,0.001200,31,-399,2,OK
+greedy,8,8,minas,D1000,c,2,0.000100,31,-399,2,OK
+fuerza bruta,8,8,mixta,D10,a,0,0.041200,31,34,3,OK
+fuerza bruta,8,8,mixta,D10,a,1,0.026100,31,34,3,OK
+fuerza bruta,8,8,mixta,D10,a,2,0.023300,31,34,3,OK
+programacion dinamica,8,8,mixta,D10,a,0,0.004000,1759,34,3,OK
+programacion dinamica,8,8,mixta,D10,a,1,0.004800,1759,34,3,OK
+programacion dinamica,8,8,mixta,D10,a,2,0.002900,1759,34,3,OK
+greedy,8,8,mixta,D10,a,0,0.000700,31,20,2,OK
+greedy,8,8,mixta,D10,a,1,0.001900,31,20,2,OK
+greedy,8,8,mixta,D10,a,2,0.000800,31,20,2,OK
+fuerza bruta,8,8,mixta,D10,b,0,0.008600,31,21,2,OK
+fuerza bruta,8,8,mixta,D10,b,1,0.007000,31,21,2,OK
+fuerza bruta,8,8,mixta,D10,b,2,0.006200,31,21,2,OK
+programacion dinamica,8,8,mixta,D10,b,0,0.005700,1759,21,2,OK
+programacion dinamica,8,8,mixta,D10,b,1,0.005500,1759,21,2,OK
+programacion dinamica,8,8,mixta,D10,b,2,0.002100,1759,21,2,OK
+greedy,8,8,mixta,D10,b,0,0.000500,31,21,2,OK
+greedy,8,8,mixta,D10,b,1,0.001500,31,21,2,OK
+greedy,8,8,mixta,D10,b,2,0.000500,31,21,2,OK
+fuerza bruta,8,8,mixta,D10,c,0,0.019200,31,22,3,OK
+fuerza bruta,8,8,mixta,D10,c,1,0.018900,31,22,3,OK
+fuerza bruta,8,8,mixta,D10,c,2,0.017200,31,22,3,OK
+programacion dinamica,8,8,mixta,D10,c,0,0.003700,1759,22,3,OK
+programacion dinamica,8,8,mixta,D10,c,1,0.004600,1759,22,3,OK
+programacion dinamica,8,8,mixta,D10,c,2,0.001900,1759,22,3,OK
+greedy,8,8,mixta,D10,c,0,0.000600,31,22,3,OK
+greedy,8,8,mixta,D10,c,1,0.001300,31,22,3,OK
+greedy,8,8,mixta,D10,c,2,0.000200,31,22,3,OK
+fuerza bruta,8,8,mixta,D1000,a,0,0.012900,31,3989,3,OK
+fuerza bruta,8,8,mixta,D1000,a,1,0.012700,31,3989,3,OK
+fuerza bruta,8,8,mixta,D1000,a,2,0.012000,31,3989,3,OK
+programacion dinamica,8,8,mixta,D1000,a,0,0.004800,1759,3989,3,OK
+programacion dinamica,8,8,mixta,D1000,a,1,0.003900,1759,3989,3,OK
+programacion dinamica,8,8,mixta,D1000,a,2,0.001700,1759,3989,3,OK
+greedy,8,8,mixta,D1000,a,0,0.000600,31,2618,3,OK
+greedy,8,8,mixta,D1000,a,1,0.001100,31,2618,3,OK
+greedy,8,8,mixta,D1000,a,2,0.000200,31,2618,3,OK
+fuerza bruta,8,8,mixta,D1000,b,0,0.017900,31,184,3,OK
+fuerza bruta,8,8,mixta,D1000,b,1,0.014000,31,184,3,OK
+fuerza bruta,8,8,mixta,D1000,b,2,0.011700,31,184,3,OK
+programacion dinamica,8,8,mixta,D1000,b,0,0.003900,1759,184,3,OK
+programacion dinamica,8,8,mixta,D1000,b,1,0.003500,1759,184,3,OK
+programacion dinamica,8,8,mixta,D1000,b,2,0.001400,1759,184,3,OK
+greedy,8,8,mixta,D1000,b,0,0.000600,31,-1291,2,OK
+greedy,8,8,mixta,D1000,b,1,0.001200,31,-1291,2,OK
+greedy,8,8,mixta,D1000,b,2,0.000500,31,-1291,2,OK
+fuerza bruta,8,8,mixta,D1000,c,0,0.010300,31,1304,3,OK
+fuerza bruta,8,8,mixta,D1000,c,1,0.015100,31,1304,3,OK
+fuerza bruta,8,8,mixta,D1000,c,2,0.008600,31,1304,3,OK
+programacion dinamica,8,8,mixta,D1000,c,0,0.004700,1759,1304,3,OK
+programacion dinamica,8,8,mixta,D1000,c,1,0.005800,1759,1304,3,OK
+programacion dinamica,8,8,mixta,D1000,c,2,0.002800,1759,1304,3,OK
+greedy,8,8,mixta,D1000,c,0,0.000700,31,52,3,OK
+greedy,8,8,mixta,D1000,c,1,0.000900,31,52,3,OK
+greedy,8,8,mixta,D1000,c,2,0.000200,31,52,3,OK
+fuerza bruta,8,16,libre,D10,a,0,4.069200,85,78,3,OK
+fuerza bruta,8,16,libre,D10,a,1,4.094300,85,78,3,OK
+fuerza bruta,8,16,libre,D10,a,2,4.458600,85,78,3,OK
+programacion dinamica,8,16,libre,D10,a,0,0.006800,3487,78,3,OK
+programacion dinamica,8,16,libre,D10,a,1,0.006500,3487,78,3,OK
+programacion dinamica,8,16,libre,D10,a,2,0.003800,3487,78,3,OK
+greedy,8,16,libre,D10,a,0,0.000800,62,38,3,OK
+greedy,8,16,libre,D10,a,1,0.001400,62,38,3,OK
+greedy,8,16,libre,D10,a,2,0.000400,62,38,3,OK
+fuerza bruta,8,16,libre,D10,b,0,4.624700,85,86,3,OK
+fuerza bruta,8,16,libre,D10,b,1,4.092800,85,86,3,OK
+fuerza bruta,8,16,libre,D10,b,2,4.322200,85,86,3,OK
+programacion dinamica,8,16,libre,D10,b,0,0.006700,3487,86,3,OK
+programacion dinamica,8,16,libre,D10,b,1,0.006100,3487,86,3,OK
+programacion dinamica,8,16,libre,D10,b,2,0.003700,3487,86,3,OK
+greedy,8,16,libre,D10,b,0,0.000800,62,60,3,OK
+greedy,8,16,libre,D10,b,1,0.001200,62,60,3,OK
+greedy,8,16,libre,D10,b,2,0.000500,62,60,3,OK
+fuerza bruta,8,16,libre,D10,c,0,3.997700,85,96,3,OK
+fuerza bruta,8,16,libre,D10,c,1,4.167200,85,96,3,OK
+fuerza bruta,8,16,libre,D10,c,2,4.165200,85,96,3,OK
+programacion dinamica,8,16,libre,D10,c,0,0.005600,3487,96,3,OK
+programacion dinamica,8,16,libre,D10,c,1,0.004700,3487,96,3,OK
+programacion dinamica,8,16,libre,D10,c,2,0.002500,3487,96,3,OK
+greedy,8,16,libre,D10,c,0,0.000600,62,25,3,OK
+greedy,8,16,libre,D10,c,1,0.001200,62,25,3,OK
+greedy,8,16,libre,D10,c,2,0.000600,62,25,3,OK
+fuerza bruta,8,16,libre,D1000,a,0,4.073500,85,10055,3,OK
+fuerza bruta,8,16,libre,D1000,a,1,4.615600,85,10055,3,OK
+fuerza bruta,8,16,libre,D1000,a,2,4.229000,85,10055,3,OK
+programacion dinamica,8,16,libre,D1000,a,0,0.006300,3487,10055,3,OK
+programacion dinamica,8,16,libre,D1000,a,1,0.005000,3487,10055,3,OK
+programacion dinamica,8,16,libre,D1000,a,2,0.002600,3487,10055,3,OK
+greedy,8,16,libre,D1000,a,0,0.000500,62,4147,3,OK
+greedy,8,16,libre,D1000,a,1,0.001100,62,4147,3,OK
+greedy,8,16,libre,D1000,a,2,0.000300,62,4147,3,OK
+fuerza bruta,8,16,libre,D1000,b,0,4.044600,85,10123,3,OK
+fuerza bruta,8,16,libre,D1000,b,1,4.084200,85,10123,3,OK
+fuerza bruta,8,16,libre,D1000,b,2,4.038400,85,10123,3,OK
+programacion dinamica,8,16,libre,D1000,b,0,0.004600,3487,10123,3,OK
+programacion dinamica,8,16,libre,D1000,b,1,0.005000,3487,10123,3,OK
+programacion dinamica,8,16,libre,D1000,b,2,0.003300,3487,10123,3,OK
+greedy,8,16,libre,D1000,b,0,0.000900,62,3264,3,OK
+greedy,8,16,libre,D1000,b,1,0.001600,62,3264,3,OK
+greedy,8,16,libre,D1000,b,2,0.000500,62,3264,3,OK
+fuerza bruta,8,16,libre,D1000,c,0,4.289400,85,10030,3,OK
+fuerza bruta,8,16,libre,D1000,c,1,4.051100,85,10030,3,OK
+fuerza bruta,8,16,libre,D1000,c,2,4.021700,85,10030,3,OK
+programacion dinamica,8,16,libre,D1000,c,0,0.004300,3487,10030,3,OK
+programacion dinamica,8,16,libre,D1000,c,1,0.004600,3487,10030,3,OK
+programacion dinamica,8,16,libre,D1000,c,2,0.002500,3487,10030,3,OK
+greedy,8,16,libre,D1000,c,0,0.000600,62,5733,3,OK
+greedy,8,16,libre,D1000,c,1,0.001100,62,5733,3,OK
+greedy,8,16,libre,D1000,c,2,0.000600,62,5733,3,OK
+fuerza bruta,8,16,murallas,D10,a,0,0.772000,85,65,3,OK
+fuerza bruta,8,16,murallas,D10,a,1,0.794800,85,65,3,OK
+fuerza bruta,8,16,murallas,D10,a,2,0.811900,85,65,3,OK
+programacion dinamica,8,16,murallas,D10,a,0,0.005400,3487,65,3,OK
+programacion dinamica,8,16,murallas,D10,a,1,0.005400,3487,65,3,OK
+programacion dinamica,8,16,murallas,D10,a,2,0.002500,3487,65,3,OK
+greedy,8,16,murallas,D10,a,0,0.000700,62,32,3,OK
+greedy,8,16,murallas,D10,a,1,0.001100,62,32,3,OK
+greedy,8,16,murallas,D10,a,2,0.000300,62,32,3,OK
+fuerza bruta,8,16,murallas,D10,b,0,0.230500,85,41,3,OK
+fuerza bruta,8,16,murallas,D10,b,1,0.229500,85,41,3,OK
+fuerza bruta,8,16,murallas,D10,b,2,0.228800,85,41,3,OK
+programacion dinamica,8,16,murallas,D10,b,0,0.004700,3487,41,3,OK
+programacion dinamica,8,16,murallas,D10,b,1,0.005600,3487,41,3,OK
+programacion dinamica,8,16,murallas,D10,b,2,0.002100,3487,41,3,OK
+greedy,8,16,murallas,D10,b,0,0.000500,62,-11,3,OK
+greedy,8,16,murallas,D10,b,1,0.000900,62,-11,3,OK
+greedy,8,16,murallas,D10,b,2,0.000500,62,-11,3,OK
+fuerza bruta,8,16,murallas,D10,c,0,0.466800,85,27,3,OK
+fuerza bruta,8,16,murallas,D10,c,1,0.455900,85,27,3,OK
+fuerza bruta,8,16,murallas,D10,c,2,0.471400,85,27,3,OK
+programacion dinamica,8,16,murallas,D10,c,0,0.004600,3487,27,3,OK
+programacion dinamica,8,16,murallas,D10,c,1,0.004700,3487,27,3,OK
+programacion dinamica,8,16,murallas,D10,c,2,0.002300,3487,27,3,OK
+greedy,8,16,murallas,D10,c,0,0.008800,31,,,SIN SOLUCION
+greedy,8,16,murallas,D10,c,1,0.001000,31,,,SIN SOLUCION
+greedy,8,16,murallas,D10,c,2,0.000300,31,,,SIN SOLUCION
+fuerza bruta,8,16,murallas,D1000,a,0,0.809100,85,6435,3,OK
+fuerza bruta,8,16,murallas,D1000,a,1,0.804800,85,6435,3,OK
+fuerza bruta,8,16,murallas,D1000,a,2,0.828800,85,6435,3,OK
+programacion dinamica,8,16,murallas,D1000,a,0,0.004200,3487,6435,3,OK
+programacion dinamica,8,16,murallas,D1000,a,1,0.004200,3487,6435,3,OK
+programacion dinamica,8,16,murallas,D1000,a,2,0.002500,3487,6435,3,OK
+greedy,8,16,murallas,D1000,a,0,0.000500,62,2133,3,OK
+greedy,8,16,murallas,D1000,a,1,0.000900,62,2133,3,OK
+greedy,8,16,murallas,D1000,a,2,0.000600,62,2133,3,OK
+fuerza bruta,8,16,murallas,D1000,b,0,0.474200,85,3681,3,OK
+fuerza bruta,8,16,murallas,D1000,b,1,0.487500,85,3681,3,OK
+fuerza bruta,8,16,murallas,D1000,b,2,0.502600,85,3681,3,OK
+programacion dinamica,8,16,murallas,D1000,b,0,0.005400,3487,3681,3,OK
+programacion dinamica,8,16,murallas,D1000,b,1,0.004400,3487,3681,3,OK
+programacion dinamica,8,16,murallas,D1000,b,2,0.002500,3487,3681,3,OK
+greedy,8,16,murallas,D1000,b,0,0.010900,31,,,SIN SOLUCION
+greedy,8,16,murallas,D1000,b,1,0.000800,31,,,SIN SOLUCION
+greedy,8,16,murallas,D1000,b,2,0.000300,31,,,SIN SOLUCION
+fuerza bruta,8,16,murallas,D1000,c,0,0.372300,85,5240,3,OK
+fuerza bruta,8,16,murallas,D1000,c,1,0.368700,85,5240,3,OK
+fuerza bruta,8,16,murallas,D1000,c,2,0.386000,85,5240,3,OK
+programacion dinamica,8,16,murallas,D1000,c,0,0.004500,3487,5240,3,OK
+programacion dinamica,8,16,murallas,D1000,c,1,0.005400,3487,5240,3,OK
+programacion dinamica,8,16,murallas,D1000,c,2,0.002300,3487,5240,3,OK
+greedy,8,16,murallas,D1000,c,0,0.000500,31,,,SIN SOLUCION
+greedy,8,16,murallas,D1000,c,1,0.000600,31,,,SIN SOLUCION
+greedy,8,16,murallas,D1000,c,2,0.000200,31,,,SIN SOLUCION
+fuerza bruta,8,16,minas,D10,a,0,3.305100,85,79,3,OK
+fuerza bruta,8,16,minas,D10,a,1,3.405000,85,79,3,OK
+fuerza bruta,8,16,minas,D10,a,2,3.155800,85,79,3,OK
+programacion dinamica,8,16,minas,D10,a,0,0.005500,3487,79,3,OK
+programacion dinamica,8,16,minas,D10,a,1,0.021900,3487,79,3,OK
+programacion dinamica,8,16,minas,D10,a,2,0.002500,3487,79,3,OK
+greedy,8,16,minas,D10,a,0,0.000800,62,53,2,OK
+greedy,8,16,minas,D10,a,1,0.001300,62,53,2,OK
+greedy,8,16,minas,D10,a,2,0.000400,62,53,2,OK
+fuerza bruta,8,16,minas,D10,b,0,2.518700,85,67,3,OK
+fuerza bruta,8,16,minas,D10,b,1,2.578500,85,67,3,OK
+fuerza bruta,8,16,minas,D10,b,2,2.606700,85,67,3,OK
+programacion dinamica,8,16,minas,D10,b,0,0.005700,3487,67,3,OK
+programacion dinamica,8,16,minas,D10,b,1,0.005400,3487,67,3,OK
+programacion dinamica,8,16,minas,D10,b,2,0.002800,3487,67,3,OK
+greedy,8,16,minas,D10,b,0,0.000600,62,47,3,OK
+greedy,8,16,minas,D10,b,1,0.001500,62,47,3,OK
+greedy,8,16,minas,D10,b,2,0.000400,62,47,3,OK
+fuerza bruta,8,16,minas,D10,c,0,3.904400,85,60,3,OK
+fuerza bruta,8,16,minas,D10,c,1,4.087400,85,60,3,OK
+fuerza bruta,8,16,minas,D10,c,2,4.016800,85,60,3,OK
+programacion dinamica,8,16,minas,D10,c,0,0.006200,3487,60,3,OK
+programacion dinamica,8,16,minas,D10,c,1,0.006800,3487,60,3,OK
+programacion dinamica,8,16,minas,D10,c,2,0.004500,3487,60,3,OK
+greedy,8,16,minas,D10,c,0,0.000900,62,47,1,OK
+greedy,8,16,minas,D10,c,1,0.001500,62,47,1,OK
+greedy,8,16,minas,D10,c,2,0.000400,62,47,1,OK
+fuerza bruta,8,16,minas,D1000,a,0,3.523400,85,7022,2,OK
+fuerza bruta,8,16,minas,D1000,a,1,3.746400,85,7022,2,OK
+fuerza bruta,8,16,minas,D1000,a,2,4.611100,85,7022,2,OK
+programacion dinamica,8,16,minas,D1000,a,0,0.006800,3487,7022,2,OK
+programacion dinamica,8,16,minas,D1000,a,1,0.005900,3487,7022,2,OK
+programacion dinamica,8,16,minas,D1000,a,2,0.002800,3487,7022,2,OK
+greedy,8,16,minas,D1000,a,0,0.000700,62,3127,3,OK
+greedy,8,16,minas,D1000,a,1,0.002000,62,3127,3,OK
+greedy,8,16,minas,D1000,a,2,0.000900,62,3127,3,OK
+fuerza bruta,8,16,minas,D1000,b,0,4.121700,85,3475,3,OK
+fuerza bruta,8,16,minas,D1000,b,1,4.525300,85,3475,3,OK
+fuerza bruta,8,16,minas,D1000,b,2,4.581700,85,3475,3,OK
+programacion dinamica,8,16,minas,D1000,b,0,0.008000,3487,3475,3,OK
+programacion dinamica,8,16,minas,D1000,b,1,0.005500,3487,3475,3,OK
+programacion dinamica,8,16,minas,D1000,b,2,0.004200,3487,3475,3,OK
+greedy,8,16,minas,D1000,b,0,0.000700,62,-250,3,OK
+greedy,8,16,minas,D1000,b,1,0.001400,62,-250,3,OK
+greedy,8,16,minas,D1000,b,2,0.000500,62,-250,3,OK
+fuerza bruta,8,16,minas,D1000,c,0,1.882000,85,6861,3,OK
+fuerza bruta,8,16,minas,D1000,c,1,2.012800,85,6861,3,OK
+fuerza bruta,8,16,minas,D1000,c,2,1.877700,85,6861,3,OK
+programacion dinamica,8,16,minas,D1000,c,0,0.005100,3487,6861,3,OK
+programacion dinamica,8,16,minas,D1000,c,1,0.005400,3487,6861,3,OK
+programacion dinamica,8,16,minas,D1000,c,2,0.002500,3487,6861,3,OK
+greedy,8,16,minas,D1000,c,0,0.000600,62,1613,3,OK
+greedy,8,16,minas,D1000,c,1,0.001300,62,1613,3,OK
+greedy,8,16,minas,D1000,c,2,0.000600,62,1613,3,OK
+fuerza bruta,8,16,mixta,D10,a,0,1.337900,85,77,2,OK
+fuerza bruta,8,16,mixta,D10,a,1,1.428700,85,77,2,OK
+fuerza bruta,8,16,mixta,D10,a,2,1.213700,85,77,2,OK
+programacion dinamica,8,16,mixta,D10,a,0,0.008700,3487,77,2,OK
+programacion dinamica,8,16,mixta,D10,a,1,0.027300,3487,77,2,OK
+programacion dinamica,8,16,mixta,D10,a,2,0.003500,3487,77,2,OK
+greedy,8,16,mixta,D10,a,0,0.000700,31,,,SIN SOLUCION
+greedy,8,16,mixta,D10,a,1,0.001200,31,,,SIN SOLUCION
+greedy,8,16,mixta,D10,a,2,0.000300,31,,,SIN SOLUCION
+fuerza bruta,8,16,mixta,D10,b,0,1.781400,85,62,2,OK
+fuerza bruta,8,16,mixta,D10,b,1,1.862400,85,62,2,OK
+fuerza bruta,8,16,mixta,D10,b,2,1.793300,85,62,2,OK
+programacion dinamica,8,16,mixta,D10,b,0,0.009100,3487,62,2,OK
+programacion dinamica,8,16,mixta,D10,b,1,0.005200,3487,62,2,OK
+programacion dinamica,8,16,mixta,D10,b,2,0.002900,3487,62,2,OK
+greedy,8,16,mixta,D10,b,0,0.000500,31,,,SIN SOLUCION
+greedy,8,16,mixta,D10,b,1,0.001000,31,,,SIN SOLUCION
+greedy,8,16,mixta,D10,b,2,0.000300,31,,,SIN SOLUCION
+fuerza bruta,8,16,mixta,D10,c,0,0.392200,85,85,2,OK
+fuerza bruta,8,16,mixta,D10,c,1,0.551700,85,85,2,OK
+fuerza bruta,8,16,mixta,D10,c,2,0.402700,85,85,2,OK
+programacion dinamica,8,16,mixta,D10,c,0,0.007700,3487,85,2,OK
+programacion dinamica,8,16,mixta,D10,c,1,0.005900,3487,85,2,OK
+programacion dinamica,8,16,mixta,D10,c,2,0.002700,3487,85,2,OK
+greedy,8,16,mixta,D10,c,0,0.000500,31,,,SIN SOLUCION
+greedy,8,16,mixta,D10,c,1,0.001200,31,,,SIN SOLUCION
+greedy,8,16,mixta,D10,c,2,0.000500,31,,,SIN SOLUCION
+fuerza bruta,8,16,mixta,D1000,a,0,0.613500,85,5663,2,OK
+fuerza bruta,8,16,mixta,D1000,a,1,0.602900,85,5663,2,OK
+fuerza bruta,8,16,mixta,D1000,a,2,0.661200,85,5663,2,OK
+programacion dinamica,8,16,mixta,D1000,a,0,0.006100,3487,5663,2,OK
+programacion dinamica,8,16,mixta,D1000,a,1,0.007300,3487,5663,2,OK
+programacion dinamica,8,16,mixta,D1000,a,2,0.003000,3487,5663,2,OK
+greedy,8,16,mixta,D1000,a,0,0.000800,62,1645,3,OK
+greedy,8,16,mixta,D1000,a,1,0.001100,62,1645,3,OK
+greedy,8,16,mixta,D1000,a,2,0.000400,62,1645,3,OK
+fuerza bruta,8,16,mixta,D1000,b,0,0.253100,85,8079,1,OK
+fuerza bruta,8,16,mixta,D1000,b,1,0.236800,85,8079,1,OK
+fuerza bruta,8,16,mixta,D1000,b,2,0.238500,85,8079,1,OK
+programacion dinamica,8,16,mixta,D1000,b,0,0.010000,3487,8079,1,OK
+programacion dinamica,8,16,mixta,D1000,b,1,0.009000,3487,8079,1,OK
+programacion dinamica,8,16,mixta,D1000,b,2,0.005100,3487,8079,1,OK
+greedy,8,16,mixta,D1000,b,0,0.000900,31,,,SIN SOLUCION
+greedy,8,16,mixta,D1000,b,1,0.002500,31,,,SIN SOLUCION
+greedy,8,16,mixta,D1000,b,2,0.000500,31,,,SIN SOLUCION
+fuerza bruta,8,16,mixta,D1000,c,0,0.285600,85,2097,2,OK
+fuerza bruta,8,16,mixta,D1000,c,1,0.250400,85,2097,2,OK
+fuerza bruta,8,16,mixta,D1000,c,2,0.263600,85,2097,2,OK
+programacion dinamica,8,16,mixta,D1000,c,0,0.005700,3487,2097,2,OK
+programacion dinamica,8,16,mixta,D1000,c,1,0.007600,3487,2097,2,OK
+programacion dinamica,8,16,mixta,D1000,c,2,0.002700,3487,2097,2,OK
+greedy,8,16,mixta,D1000,c,0,0.000700,62,-1400,2,OK
+greedy,8,16,mixta,D1000,c,1,0.001400,62,-1400,2,OK
+greedy,8,16,mixta,D1000,c,2,0.000400,62,-1400,2,OK
+fuerza bruta,16,16,libre,D10,a,0,3085.838300,95,133,3,OK
+fuerza bruta,16,16,libre,D10,a,1,2979.009200,95,133,3,OK
+fuerza bruta,16,16,libre,D10,a,2,3051.138400,95,133,3,OK
+programacion dinamica,16,16,libre,D10,a,0,0.019400,6945,133,3,OK
+programacion dinamica,16,16,libre,D10,a,1,0.006900,6945,133,3,OK
+programacion dinamica,16,16,libre,D10,a,2,0.004200,6945,133,3,OK
+greedy,16,16,libre,D10,a,0,0.000800,64,108,3,OK
+greedy,16,16,libre,D10,a,1,0.002400,64,108,3,OK
+greedy,16,16,libre,D10,a,2,0.000400,64,108,3,OK
+fuerza bruta,16,16,libre,D10,b,0,3071.603500,95,125,3,OK
+fuerza bruta,16,16,libre,D10,b,1,2985.715700,95,125,3,OK
+fuerza bruta,16,16,libre,D10,b,2,3068.884100,95,125,3,OK
+programacion dinamica,16,16,libre,D10,b,0,0.009800,6945,125,3,OK
+programacion dinamica,16,16,libre,D10,b,1,0.009300,6945,125,3,OK
+programacion dinamica,16,16,libre,D10,b,2,0.004500,6945,125,3,OK
+greedy,16,16,libre,D10,b,0,0.000800,64,97,3,OK
+greedy,16,16,libre,D10,b,1,0.001300,64,97,3,OK
+greedy,16,16,libre,D10,b,2,0.000500,64,97,3,OK
+fuerza bruta,16,16,libre,D10,c,0,2997.418800,95,172,3,OK
+fuerza bruta,16,16,libre,D10,c,1,3068.466200,95,172,3,OK
+fuerza bruta,16,16,libre,D10,c,2,2992.080700,95,172,3,OK
+programacion dinamica,16,16,libre,D10,c,0,0.009800,6945,172,3,OK
+programacion dinamica,16,16,libre,D10,c,1,0.011500,6945,172,3,OK
+programacion dinamica,16,16,libre,D10,c,2,0.004300,6945,172,3,OK
+greedy,16,16,libre,D10,c,0,0.000800,64,172,3,OK
+greedy,16,16,libre,D10,c,1,0.003200,64,172,3,OK
+greedy,16,16,libre,D10,c,2,0.000500,64,172,3,OK
+fuerza bruta,16,16,libre,D1000,a,0,2978.720400,95,11107,3,OK
+fuerza bruta,16,16,libre,D1000,a,1,2971.962800,95,11107,3,OK
+fuerza bruta,16,16,libre,D1000,a,2,2973.372200,95,11107,3,OK
+programacion dinamica,16,16,libre,D1000,a,0,0.008500,6945,11107,3,OK
+programacion dinamica,16,16,libre,D1000,a,1,0.007300,6945,11107,3,OK
+programacion dinamica,16,16,libre,D1000,a,2,0.003900,6945,11107,3,OK
+greedy,16,16,libre,D1000,a,0,0.000700,64,2531,3,OK
+greedy,16,16,libre,D1000,a,1,0.001400,64,2531,3,OK
+greedy,16,16,libre,D1000,a,2,0.000500,64,2531,3,OK
+fuerza bruta,16,16,libre,D1000,b,0,3047.475600,95,12055,3,OK
+fuerza bruta,16,16,libre,D1000,b,1,3085.376600,95,12055,3,OK
+fuerza bruta,16,16,libre,D1000,b,2,2970.664100,95,12055,3,OK
+programacion dinamica,16,16,libre,D1000,b,0,0.009200,6945,12055,3,OK
+programacion dinamica,16,16,libre,D1000,b,1,0.009600,6945,12055,3,OK
+programacion dinamica,16,16,libre,D1000,b,2,0.004500,6945,12055,3,OK
+greedy,16,16,libre,D1000,b,0,0.000700,64,6250,3,OK
+greedy,16,16,libre,D1000,b,1,0.002000,64,6250,3,OK
+greedy,16,16,libre,D1000,b,2,0.000400,64,6250,3,OK
+fuerza bruta,16,16,libre,D1000,c,0,3008.171100,95,9347,3,OK
+fuerza bruta,16,16,libre,D1000,c,1,3119.558500,95,9347,3,OK
+fuerza bruta,16,16,libre,D1000,c,2,3018.001900,95,9347,3,OK
+programacion dinamica,16,16,libre,D1000,c,0,0.010900,6945,9347,3,OK
+programacion dinamica,16,16,libre,D1000,c,1,0.009000,6945,9347,3,OK
+programacion dinamica,16,16,libre,D1000,c,2,0.004000,6945,9347,3,OK
+greedy,16,16,libre,D1000,c,0,0.000700,64,6516,3,OK
+greedy,16,16,libre,D1000,c,1,0.002900,64,6516,3,OK
+greedy,16,16,libre,D1000,c,2,0.000500,64,6516,3,OK
+fuerza bruta,16,16,murallas,D10,a,0,801.199300,95,123,3,OK
+fuerza bruta,16,16,murallas,D10,a,1,783.709500,95,123,3,OK
+fuerza bruta,16,16,murallas,D10,a,2,777.111800,95,123,3,OK
+programacion dinamica,16,16,murallas,D10,a,0,0.009900,6945,123,3,OK
+programacion dinamica,16,16,murallas,D10,a,1,0.012100,6945,123,3,OK
+programacion dinamica,16,16,murallas,D10,a,2,0.005600,6945,123,3,OK
+greedy,16,16,murallas,D10,a,0,0.000700,64,121,3,OK
+greedy,16,16,murallas,D10,a,1,0.002800,64,121,3,OK
+greedy,16,16,murallas,D10,a,2,0.000500,64,121,3,OK
+fuerza bruta,16,16,murallas,D10,b,0,157.591300,95,126,3,OK
+fuerza bruta,16,16,murallas,D10,b,1,157.175100,95,126,3,OK
+fuerza bruta,16,16,murallas,D10,b,2,153.785200,95,126,3,OK
+programacion dinamica,16,16,murallas,D10,b,0,0.008000,6945,126,3,OK
+programacion dinamica,16,16,murallas,D10,b,1,0.006600,6945,126,3,OK
+programacion dinamica,16,16,murallas,D10,b,2,0.004200,6945,126,3,OK
+greedy,16,16,murallas,D10,b,0,0.000700,64,84,3,OK
+greedy,16,16,murallas,D10,b,1,0.001100,64,84,3,OK
+greedy,16,16,murallas,D10,b,2,0.000500,64,84,3,OK
+fuerza bruta,16,16,murallas,D10,c,0,626.672000,95,158,3,OK
+fuerza bruta,16,16,murallas,D10,c,1,635.318000,95,158,3,OK
+fuerza bruta,16,16,murallas,D10,c,2,624.938800,95,158,3,OK
+programacion dinamica,16,16,murallas,D10,c,0,0.010300,6945,158,3,OK
+programacion dinamica,16,16,murallas,D10,c,1,0.010500,6945,158,3,OK
+programacion dinamica,16,16,murallas,D10,c,2,0.004000,6945,158,3,OK
+greedy,16,16,murallas,D10,c,0,0.000700,64,156,3,OK
+greedy,16,16,murallas,D10,c,1,0.000900,64,156,3,OK
+greedy,16,16,murallas,D10,c,2,0.000400,64,156,3,OK
+fuerza bruta,16,16,murallas,D1000,a,0,410.499000,95,11097,3,OK
+fuerza bruta,16,16,murallas,D1000,a,1,404.199200,95,11097,3,OK
+fuerza bruta,16,16,murallas,D1000,a,2,392.325300,95,11097,3,OK
+programacion dinamica,16,16,murallas,D1000,a,0,0.008800,6945,11097,3,OK
+programacion dinamica,16,16,murallas,D1000,a,1,0.007500,6945,11097,3,OK
+programacion dinamica,16,16,murallas,D1000,a,2,0.004300,6945,11097,3,OK
+greedy,16,16,murallas,D1000,a,0,0.001000,64,9253,3,OK
+greedy,16,16,murallas,D1000,a,1,0.001500,64,9253,3,OK
+greedy,16,16,murallas,D1000,a,2,0.000400,64,9253,3,OK
+fuerza bruta,16,16,murallas,D1000,b,0,512.992000,95,11922,3,OK
+fuerza bruta,16,16,murallas,D1000,b,1,493.263100,95,11922,3,OK
+fuerza bruta,16,16,murallas,D1000,b,2,509.913400,95,11922,3,OK
+programacion dinamica,16,16,murallas,D1000,b,0,0.008600,6945,11922,3,OK
+programacion dinamica,16,16,murallas,D1000,b,1,0.009600,6945,11922,3,OK
+programacion dinamica,16,16,murallas,D1000,b,2,0.005400,6945,11922,3,OK
+greedy,16,16,murallas,D1000,b,0,0.011600,64,9901,3,OK
+greedy,16,16,murallas,D1000,b,1,0.001200,64,9901,3,OK
+greedy,16,16,murallas,D1000,b,2,0.000500,64,9901,3,OK
+fuerza bruta,16,16,murallas,D1000,c,0,680.270800,95,12206,3,OK
+fuerza bruta,16,16,murallas,D1000,c,1,680.372400,95,12206,3,OK
+fuerza bruta,16,16,murallas,D1000,c,2,668.499900,95,12206,3,OK
+programacion dinamica,16,16,murallas,D1000,c,0,0.011200,6945,12206,3,OK
+programacion dinamica,16,16,murallas,D1000,c,1,0.008800,6945,12206,3,OK
+programacion dinamica,16,16,murallas,D1000,c,2,0.004300,6945,12206,3,OK
+greedy,16,16,murallas,D1000,c,0,0.000600,33,,,SIN SOLUCION
+greedy,16,16,murallas,D1000,c,1,0.001600,33,,,SIN SOLUCION
+greedy,16,16,murallas,D1000,c,2,0.000400,33,,,SIN SOLUCION
+fuerza bruta,16,16,minas,D10,a,0,2078.137700,95,112,3,OK
+fuerza bruta,16,16,minas,D10,a,1,2069.059100,95,112,3,OK
+fuerza bruta,16,16,minas,D10,a,2,2167.188400,95,112,3,OK
+programacion dinamica,16,16,minas,D10,a,0,0.010100,6945,112,3,OK
+programacion dinamica,16,16,minas,D10,a,1,0.010800,6945,112,3,OK
+programacion dinamica,16,16,minas,D10,a,2,0.004600,6945,112,3,OK
+greedy,16,16,minas,D10,a,0,0.000700,64,108,3,OK
+greedy,16,16,minas,D10,a,1,0.002800,64,108,3,OK
+greedy,16,16,minas,D10,a,2,0.000500,64,108,3,OK
+fuerza bruta,16,16,minas,D10,b,0,2653.633600,95,108,2,OK
+fuerza bruta,16,16,minas,D10,b,1,2635.941700,95,108,2,OK
+fuerza bruta,16,16,minas,D10,b,2,2577.974800,95,108,2,OK
+programacion dinamica,16,16,minas,D10,b,0,0.009700,6945,108,2,OK
+programacion dinamica,16,16,minas,D10,b,1,0.011600,6945,108,2,OK
+programacion dinamica,16,16,minas,D10,b,2,0.004300,6945,108,2,OK
+greedy,16,16,minas,D10,b,0,0.000700,64,84,3,OK
+greedy,16,16,minas,D10,b,1,0.001900,64,84,3,OK
+greedy,16,16,minas,D10,b,2,0.000600,64,84,3,OK
+fuerza bruta,16,16,minas,D10,c,0,2866.365100,95,116,3,OK
+fuerza bruta,16,16,minas,D10,c,1,2756.689700,95,116,3,OK
+fuerza bruta,16,16,minas,D10,c,2,2851.208400,95,116,3,OK
+programacion dinamica,16,16,minas,D10,c,0,0.010600,6945,116,3,OK
+programacion dinamica,16,16,minas,D10,c,1,0.007600,6945,116,3,OK
+programacion dinamica,16,16,minas,D10,c,2,0.004500,6945,116,3,OK
+greedy,16,16,minas,D10,c,0,0.000700,64,33,2,OK
+greedy,16,16,minas,D10,c,1,0.002000,64,33,2,OK
+greedy,16,16,minas,D10,c,2,0.000500,64,33,2,OK
+fuerza bruta,16,16,minas,D1000,a,0,2611.953700,95,5674,3,OK
+fuerza bruta,16,16,minas,D1000,a,1,2612.574100,95,5674,3,OK
+fuerza bruta,16,16,minas,D1000,a,2,2620.671600,95,5674,3,OK
+programacion dinamica,16,16,minas,D1000,a,0,0.010500,6945,5674,3,OK
+programacion dinamica,16,16,minas,D1000,a,1,0.008100,6945,5674,3,OK
+programacion dinamica,16,16,minas,D1000,a,2,0.004600,6945,5674,3,OK
+greedy,16,16,minas,D1000,a,0,0.000800,64,4520,3,OK
+greedy,16,16,minas,D1000,a,1,0.001900,64,4520,3,OK
+greedy,16,16,minas,D1000,a,2,0.000500,64,4520,3,OK
+fuerza bruta,16,16,minas,D1000,b,0,2548.094500,95,12381,3,OK
+fuerza bruta,16,16,minas,D1000,b,1,2421.111900,95,12381,3,OK
+fuerza bruta,16,16,minas,D1000,b,2,2527.653200,95,12381,3,OK
+programacion dinamica,16,16,minas,D1000,b,0,0.010000,6945,12381,3,OK
+programacion dinamica,16,16,minas,D1000,b,1,0.010800,6945,12381,3,OK
+programacion dinamica,16,16,minas,D1000,b,2,0.004600,6945,12381,3,OK
+greedy,16,16,minas,D1000,b,0,0.000600,64,11250,3,OK
+greedy,16,16,minas,D1000,b,1,0.002000,64,11250,3,OK
+greedy,16,16,minas,D1000,b,2,0.000400,64,11250,3,OK
+fuerza bruta,16,16,minas,D1000,c,0,2581.789300,95,10754,3,OK
+fuerza bruta,16,16,minas,D1000,c,1,2564.233500,95,10754,3,OK
+fuerza bruta,16,16,minas,D1000,c,2,2543.645700,95,10754,3,OK
+programacion dinamica,16,16,minas,D1000,c,0,0.011500,6945,10754,3,OK
+programacion dinamica,16,16,minas,D1000,c,1,0.010400,6945,10754,3,OK
+programacion dinamica,16,16,minas,D1000,c,2,0.004200,6945,10754,3,OK
+greedy,16,16,minas,D1000,c,0,0.000700,64,6879,2,OK
+greedy,16,16,minas,D1000,c,1,0.001900,64,6879,2,OK
+greedy,16,16,minas,D1000,c,2,0.000600,64,6879,2,OK
+fuerza bruta,16,16,mixta,D10,a,0,1119.705200,95,99,2,OK
+fuerza bruta,16,16,mixta,D10,a,1,1136.929600,95,99,2,OK
+fuerza bruta,16,16,mixta,D10,a,2,1116.706100,95,99,2,OK
+programacion dinamica,16,16,mixta,D10,a,0,0.010300,6945,99,2,OK
+programacion dinamica,16,16,mixta,D10,a,1,0.010800,6945,99,2,OK
+programacion dinamica,16,16,mixta,D10,a,2,0.004300,6945,99,2,OK
+greedy,16,16,mixta,D10,a,0,0.001000,64,70,3,OK
+greedy,16,16,mixta,D10,a,1,0.001600,64,70,3,OK
+greedy,16,16,mixta,D10,a,2,0.000400,64,70,3,OK
+fuerza bruta,16,16,mixta,D10,b,0,839.111200,95,98,3,OK
+fuerza bruta,16,16,mixta,D10,b,1,831.448600,95,98,3,OK
+fuerza bruta,16,16,mixta,D10,b,2,851.835200,95,98,3,OK
+programacion dinamica,16,16,mixta,D10,b,0,0.010300,6945,98,3,OK
+programacion dinamica,16,16,mixta,D10,b,1,0.009200,6945,98,3,OK
+programacion dinamica,16,16,mixta,D10,b,2,0.003800,6945,98,3,OK
+greedy,16,16,mixta,D10,b,0,0.000800,64,55,3,OK
+greedy,16,16,mixta,D10,b,1,0.001000,64,55,3,OK
+greedy,16,16,mixta,D10,b,2,0.000500,64,55,3,OK
+fuerza bruta,16,16,mixta,D10,c,0,486.848000,95,124,3,OK
+fuerza bruta,16,16,mixta,D10,c,1,487.813000,95,124,3,OK
+fuerza bruta,16,16,mixta,D10,c,2,481.602000,95,124,3,OK
+programacion dinamica,16,16,mixta,D10,c,0,0.011400,6945,124,3,OK
+programacion dinamica,16,16,mixta,D10,c,1,0.008500,6945,124,3,OK
+programacion dinamica,16,16,mixta,D10,c,2,0.004200,6945,124,3,OK
+greedy,16,16,mixta,D10,c,0,0.000800,64,43,2,OK
+greedy,16,16,mixta,D10,c,1,0.001800,64,43,2,OK
+greedy,16,16,mixta,D10,c,2,0.000400,64,43,2,OK
+fuerza bruta,16,16,mixta,D1000,a,0,384.089700,95,13263,2,OK
+fuerza bruta,16,16,mixta,D1000,a,1,401.666300,95,13263,2,OK
+fuerza bruta,16,16,mixta,D1000,a,2,379.252200,95,13263,2,OK
+programacion dinamica,16,16,mixta,D1000,a,0,0.010800,6945,13263,2,OK
+programacion dinamica,16,16,mixta,D1000,a,1,0.033700,6945,13263,2,OK
+programacion dinamica,16,16,mixta,D1000,a,2,0.005100,6945,13263,2,OK
+greedy,16,16,mixta,D1000,a,0,0.000800,64,9174,3,OK
+greedy,16,16,mixta,D1000,a,1,0.002100,64,9174,3,OK
+greedy,16,16,mixta,D1000,a,2,0.000400,64,9174,3,OK
+fuerza bruta,16,16,mixta,D1000,b,0,121.573200,95,6618,1,OK
+fuerza bruta,16,16,mixta,D1000,b,1,112.144600,95,6618,1,OK
+fuerza bruta,16,16,mixta,D1000,b,2,115.287800,95,6618,1,OK
+programacion dinamica,16,16,mixta,D1000,b,0,0.009700,6945,6618,1,OK
+programacion dinamica,16,16,mixta,D1000,b,1,0.009200,6945,6618,1,OK
+programacion dinamica,16,16,mixta,D1000,b,2,0.004200,6945,6618,1,OK
+greedy,16,16,mixta,D1000,b,0,0.000700,33,,,SIN SOLUCION
+greedy,16,16,mixta,D1000,b,1,0.001500,33,,,SIN SOLUCION
+greedy,16,16,mixta,D1000,b,2,0.000400,33,,,SIN SOLUCION
+fuerza bruta,16,16,mixta,D1000,c,0,714.013900,95,8036,3,OK
+fuerza bruta,16,16,mixta,D1000,c,1,697.374400,95,8036,3,OK
+fuerza bruta,16,16,mixta,D1000,c,2,713.302200,95,8036,3,OK
+programacion dinamica,16,16,mixta,D1000,c,0,0.011000,6945,8036,3,OK
+programacion dinamica,16,16,mixta,D1000,c,1,0.012500,6945,8036,3,OK
+programacion dinamica,16,16,mixta,D1000,c,2,0.004400,6945,8036,3,OK
+greedy,16,16,mixta,D1000,c,0,0.000700,64,-1470,3,OK
+greedy,16,16,mixta,D1000,c,1,0.002500,64,-1470,3,OK
+greedy,16,16,mixta,D1000,c,2,0.000700,64,-1470,3,OK
+programacion dinamica,16,32,libre,D10,a,0,0.039900,13873,189,3,OK
+programacion dinamica,16,32,libre,D10,a,1,0.012200,13873,189,3,OK
+programacion dinamica,16,32,libre,D10,a,2,0.007500,13873,189,3,OK
+greedy,16,32,libre,D10,a,0,0.000800,96,55,3,OK
+greedy,16,32,libre,D10,a,1,0.001200,96,55,3,OK
+greedy,16,32,libre,D10,a,2,0.000500,96,55,3,OK
+programacion dinamica,16,32,libre,D10,b,0,0.028200,13873,200,3,OK
+programacion dinamica,16,32,libre,D10,b,1,0.013600,13873,200,3,OK
+programacion dinamica,16,32,libre,D10,b,2,0.007800,13873,200,3,OK
+greedy,16,32,libre,D10,b,0,0.000800,96,43,3,OK
+greedy,16,32,libre,D10,b,1,0.001300,96,43,3,OK
+greedy,16,32,libre,D10,b,2,0.000500,96,43,3,OK
+programacion dinamica,16,32,libre,D10,c,0,0.010900,13873,210,3,OK
+programacion dinamica,16,32,libre,D10,c,1,0.018700,13873,210,3,OK
+programacion dinamica,16,32,libre,D10,c,2,0.008100,13873,210,3,OK
+greedy,16,32,libre,D10,c,0,0.000800,96,122,3,OK
+greedy,16,32,libre,D10,c,1,0.001600,96,122,3,OK
+greedy,16,32,libre,D10,c,2,0.000600,96,122,3,OK
+programacion dinamica,16,32,libre,D1000,a,0,0.012400,13873,16919,3,OK
+programacion dinamica,16,32,libre,D1000,a,1,0.012400,13873,16919,3,OK
+programacion dinamica,16,32,libre,D1000,a,2,0.007300,13873,16919,3,OK
+greedy,16,32,libre,D1000,a,0,0.000700,96,10067,3,OK
+greedy,16,32,libre,D1000,a,1,0.001500,96,10067,3,OK
+greedy,16,32,libre,D1000,a,2,0.000600,96,10067,3,OK
+programacion dinamica,16,32,libre,D1000,b,0,0.012700,13873,18676,3,OK
+programacion dinamica,16,32,libre,D1000,b,1,0.013700,13873,18676,3,OK
+programacion dinamica,16,32,libre,D1000,b,2,0.008300,13873,18676,3,OK
+greedy,16,32,libre,D1000,b,0,0.000800,96,6422,3,OK
+greedy,16,32,libre,D1000,b,1,0.001600,96,6422,3,OK
+greedy,16,32,libre,D1000,b,2,0.001000,96,6422,3,OK
+programacion dinamica,16,32,libre,D1000,c,0,0.012300,13873,19856,3,OK
+programacion dinamica,16,32,libre,D1000,c,1,0.014500,13873,19856,3,OK
+programacion dinamica,16,32,libre,D1000,c,2,0.009200,13873,19856,3,OK
+greedy,16,32,libre,D1000,c,0,0.000800,96,8519,3,OK
+greedy,16,32,libre,D1000,c,1,0.001600,96,8519,3,OK
+greedy,16,32,libre,D1000,c,2,0.000600,96,8519,3,OK
+programacion dinamica,16,32,murallas,D10,a,0,0.015800,13873,173,3,OK
+programacion dinamica,16,32,murallas,D10,a,1,0.016600,13873,173,3,OK
+programacion dinamica,16,32,murallas,D10,a,2,0.008600,13873,173,3,OK
+greedy,16,32,murallas,D10,a,0,0.000900,49,,,SIN SOLUCION
+greedy,16,32,murallas,D10,a,1,0.002500,49,,,SIN SOLUCION
+greedy,16,32,murallas,D10,a,2,0.000600,49,,,SIN SOLUCION
+programacion dinamica,16,32,murallas,D10,b,0,0.013500,13873,222,3,OK
+programacion dinamica,16,32,murallas,D10,b,1,0.013100,13873,222,3,OK
+programacion dinamica,16,32,murallas,D10,b,2,0.008400,13873,222,3,OK
+greedy,16,32,murallas,D10,b,0,0.000800,96,179,3,OK
+greedy,16,32,murallas,D10,b,1,0.001300,96,179,3,OK
+greedy,16,32,murallas,D10,b,2,0.000500,96,179,3,OK
+programacion dinamica,16,32,murallas,D10,c,0,0.012500,13873,205,3,OK
+programacion dinamica,16,32,murallas,D10,c,1,0.012200,13873,205,3,OK
+programacion dinamica,16,32,murallas,D10,c,2,0.009600,13873,205,3,OK
+greedy,16,32,murallas,D10,c,0,0.000700,49,,,SIN SOLUCION
+greedy,16,32,murallas,D10,c,1,0.001200,49,,,SIN SOLUCION
+greedy,16,32,murallas,D10,c,2,0.000400,49,,,SIN SOLUCION
+programacion dinamica,16,32,murallas,D1000,a,0,0.012800,13873,16114,3,OK
+programacion dinamica,16,32,murallas,D1000,a,1,0.013400,13873,16114,3,OK
+programacion dinamica,16,32,murallas,D1000,a,2,0.008400,13873,16114,3,OK
+greedy,16,32,murallas,D1000,a,0,0.000800,96,13343,3,OK
+greedy,16,32,murallas,D1000,a,1,0.001000,96,13343,3,OK
+greedy,16,32,murallas,D1000,a,2,0.000400,96,13343,3,OK
+programacion dinamica,16,32,murallas,D1000,b,0,0.012700,13873,20643,3,OK
+programacion dinamica,16,32,murallas,D1000,b,1,0.031500,13873,20643,3,OK
+programacion dinamica,16,32,murallas,D1000,b,2,0.007600,13873,20643,3,OK
+greedy,16,32,murallas,D1000,b,0,0.000700,96,17526,3,OK
+greedy,16,32,murallas,D1000,b,1,0.002500,96,17526,3,OK
+greedy,16,32,murallas,D1000,b,2,0.000800,96,17526,3,OK
+programacion dinamica,16,32,murallas,D1000,c,0,0.013500,13873,18429,3,OK
+programacion dinamica,16,32,murallas,D1000,c,1,0.013500,13873,18429,3,OK
+programacion dinamica,16,32,murallas,D1000,c,2,0.008100,13873,18429,3,OK
+greedy,16,32,murallas,D1000,c,0,0.000700,49,,,SIN SOLUCION
+greedy,16,32,murallas,D1000,c,1,0.002000,49,,,SIN SOLUCION
+greedy,16,32,murallas,D1000,c,2,0.000900,49,,,SIN SOLUCION
+programacion dinamica,16,32,minas,D10,a,0,0.013600,13873,185,3,OK
+programacion dinamica,16,32,minas,D10,a,1,0.031200,13873,185,3,OK
+programacion dinamica,16,32,minas,D10,a,2,0.008100,13873,185,3,OK
+greedy,16,32,minas,D10,a,0,0.000900,96,124,3,OK
+greedy,16,32,minas,D10,a,1,0.001300,96,124,3,OK
+greedy,16,32,minas,D10,a,2,0.000700,96,124,3,OK
+programacion dinamica,16,32,minas,D10,b,0,0.011800,13873,210,3,OK
+programacion dinamica,16,32,minas,D10,b,1,0.010800,13873,210,3,OK
+programacion dinamica,16,32,minas,D10,b,2,0.007200,13873,210,3,OK
+greedy,16,32,minas,D10,b,0,0.000900,96,125,3,OK
+greedy,16,32,minas,D10,b,1,0.001100,96,125,3,OK
+greedy,16,32,minas,D10,b,2,0.000500,96,125,3,OK
+programacion dinamica,16,32,minas,D10,c,0,0.014200,13873,214,2,OK
+programacion dinamica,16,32,minas,D10,c,1,0.015600,13873,214,2,OK
+programacion dinamica,16,32,minas,D10,c,2,0.008700,13873,214,2,OK
+greedy,16,32,minas,D10,c,0,0.000900,96,173,3,OK
+greedy,16,32,minas,D10,c,1,0.002400,96,173,3,OK
+greedy,16,32,minas,D10,c,2,0.000600,96,173,3,OK
+programacion dinamica,16,32,minas,D1000,a,0,0.012700,13873,18593,3,OK
+programacion dinamica,16,32,minas,D1000,a,1,0.014400,13873,18593,3,OK
+programacion dinamica,16,32,minas,D1000,a,2,0.009300,13873,18593,3,OK
+greedy,16,32,minas,D1000,a,0,0.000800,96,4161,2,OK
+greedy,16,32,minas,D1000,a,1,0.001400,96,4161,2,OK
+greedy,16,32,minas,D1000,a,2,0.000600,96,4161,2,OK
+programacion dinamica,16,32,minas,D1000,b,0,0.013800,13873,17662,3,OK
+programacion dinamica,16,32,minas,D1000,b,1,0.013600,13873,17662,3,OK
+programacion dinamica,16,32,minas,D1000,b,2,0.008000,13873,17662,3,OK
+greedy,16,32,minas,D1000,b,0,0.000800,96,7625,3,OK
+greedy,16,32,minas,D1000,b,1,0.001200,96,7625,3,OK
+greedy,16,32,minas,D1000,b,2,0.000500,96,7625,3,OK
+programacion dinamica,16,32,minas,D1000,c,0,0.015500,13873,16206,3,OK
+programacion dinamica,16,32,minas,D1000,c,1,0.016100,13873,16206,3,OK
+programacion dinamica,16,32,minas,D1000,c,2,0.008800,13873,16206,3,OK
+greedy,16,32,minas,D1000,c,0,0.010900,96,5403,1,OK
+greedy,16,32,minas,D1000,c,1,0.002400,96,5403,1,OK
+greedy,16,32,minas,D1000,c,2,0.000500,96,5403,1,OK
+programacion dinamica,16,32,mixta,D10,a,0,0.015300,13873,160,2,OK
+programacion dinamica,16,32,mixta,D10,a,1,0.013900,13873,160,2,OK
+programacion dinamica,16,32,mixta,D10,a,2,0.008300,13873,160,2,OK
+greedy,16,32,mixta,D10,a,0,0.001000,96,48,1,OK
+greedy,16,32,mixta,D10,a,1,0.001000,96,48,1,OK
+greedy,16,32,mixta,D10,a,2,0.000700,96,48,1,OK
+programacion dinamica,16,32,mixta,D10,b,0,0.015800,13873,134,3,OK
+programacion dinamica,16,32,mixta,D10,b,1,0.016300,13873,134,3,OK
+programacion dinamica,16,32,mixta,D10,b,2,0.008800,13873,134,3,OK
+greedy,16,32,mixta,D10,b,0,0.000800,49,,,SIN SOLUCION
+greedy,16,32,mixta,D10,b,1,0.001600,49,,,SIN SOLUCION
+greedy,16,32,mixta,D10,b,2,0.000400,49,,,SIN SOLUCION
+programacion dinamica,16,32,mixta,D10,c,0,0.013200,13873,143,2,OK
+programacion dinamica,16,32,mixta,D10,c,1,0.013200,13873,143,2,OK
+programacion dinamica,16,32,mixta,D10,c,2,0.008400,13873,143,2,OK
+greedy,16,32,mixta,D10,c,0,0.000800,96,81,3,OK
+greedy,16,32,mixta,D10,c,1,0.000900,96,81,3,OK
+greedy,16,32,mixta,D10,c,2,0.000400,96,81,3,OK
+programacion dinamica,16,32,mixta,D1000,a,0,0.013300,13873,14426,3,OK
+programacion dinamica,16,32,mixta,D1000,a,1,0.014900,13873,14426,3,OK
+programacion dinamica,16,32,mixta,D1000,a,2,0.008600,13873,14426,3,OK
+greedy,16,32,mixta,D1000,a,0,0.001000,96,7354,1,OK
+greedy,16,32,mixta,D1000,a,1,0.001200,96,7354,1,OK
+greedy,16,32,mixta,D1000,a,2,0.000500,96,7354,1,OK
+programacion dinamica,16,32,mixta,D1000,b,0,0.013800,13873,13295,3,OK
+programacion dinamica,16,32,mixta,D1000,b,1,0.016600,13873,13295,3,OK
+programacion dinamica,16,32,mixta,D1000,b,2,0.008800,13873,13295,3,OK
+greedy,16,32,mixta,D1000,b,0,0.000800,96,9709,3,OK
+greedy,16,32,mixta,D1000,b,1,0.001400,96,9709,3,OK
+greedy,16,32,mixta,D1000,b,2,0.000500,96,9709,3,OK
+programacion dinamica,16,32,mixta,D1000,c,0,0.014300,13873,15385,3,OK
+programacion dinamica,16,32,mixta,D1000,c,1,0.014700,13873,15385,3,OK
+programacion dinamica,16,32,mixta,D1000,c,2,0.008000,13873,15385,3,OK
+greedy,16,32,mixta,D1000,c,0,0.001000,96,9393,3,OK
+greedy,16,32,mixta,D1000,c,1,0.001100,96,9393,3,OK
+greedy,16,32,mixta,D1000,c,2,0.000500,96,9393,3,OK
+programacion dinamica,64,64,libre,D10,a,0,0.153400,110721,586,3,OK
+programacion dinamica,64,64,libre,D10,a,1,0.147200,110721,586,3,OK
+programacion dinamica,64,64,libre,D10,a,2,0.101400,110721,586,3,OK
+greedy,64,64,libre,D10,a,0,0.001400,256,382,3,OK
+greedy,64,64,libre,D10,a,1,0.004100,256,382,3,OK
+greedy,64,64,libre,D10,a,2,0.000900,256,382,3,OK
+programacion dinamica,64,64,libre,D10,b,0,0.110800,110721,545,3,OK
+programacion dinamica,64,64,libre,D10,b,1,0.119600,110721,545,3,OK
+programacion dinamica,64,64,libre,D10,b,2,0.107200,110721,545,3,OK
+greedy,64,64,libre,D10,b,0,0.001400,256,287,3,OK
+greedy,64,64,libre,D10,b,1,0.007700,256,287,3,OK
+greedy,64,64,libre,D10,b,2,0.001200,256,287,3,OK
+programacion dinamica,64,64,libre,D10,c,0,0.115600,110721,601,3,OK
+programacion dinamica,64,64,libre,D10,c,1,0.124700,110721,601,3,OK
+programacion dinamica,64,64,libre,D10,c,2,0.105900,110721,601,3,OK
+greedy,64,64,libre,D10,c,0,0.001600,256,326,3,OK
+greedy,64,64,libre,D10,c,1,0.002600,256,326,3,OK
+greedy,64,64,libre,D10,c,2,0.001200,256,326,3,OK
+programacion dinamica,64,64,libre,D1000,a,0,0.159800,110721,56971,3,OK
+programacion dinamica,64,64,libre,D1000,a,1,0.128900,110721,56971,3,OK
+programacion dinamica,64,64,libre,D1000,a,2,0.107500,110721,56971,3,OK
+greedy,64,64,libre,D1000,a,0,0.001600,256,37911,3,OK
+greedy,64,64,libre,D1000,a,1,0.002600,256,37911,3,OK
+greedy,64,64,libre,D1000,a,2,0.001000,256,37911,3,OK
+programacion dinamica,64,64,libre,D1000,b,0,0.124900,110721,55071,3,OK
+programacion dinamica,64,64,libre,D1000,b,1,0.117700,110721,55071,3,OK
+programacion dinamica,64,64,libre,D1000,b,2,0.104300,110721,55071,3,OK
+greedy,64,64,libre,D1000,b,0,0.001400,256,37702,3,OK
+greedy,64,64,libre,D1000,b,1,0.002200,256,37702,3,OK
+greedy,64,64,libre,D1000,b,2,0.000800,256,37702,3,OK
+programacion dinamica,64,64,libre,D1000,c,0,0.122600,110721,56670,3,OK
+programacion dinamica,64,64,libre,D1000,c,1,0.124600,110721,56670,3,OK
+programacion dinamica,64,64,libre,D1000,c,2,0.107600,110721,56670,3,OK
+greedy,64,64,libre,D1000,c,0,0.001500,256,43442,3,OK
+greedy,64,64,libre,D1000,c,1,0.002200,256,43442,3,OK
+greedy,64,64,libre,D1000,c,2,0.001000,256,43442,3,OK
+programacion dinamica,64,64,murallas,D10,a,0,0.151100,110721,635,3,OK
+programacion dinamica,64,64,murallas,D10,a,1,0.122000,110721,635,3,OK
+programacion dinamica,64,64,murallas,D10,a,2,0.109000,110721,635,3,OK
+greedy,64,64,murallas,D10,a,0,0.001400,129,,,SIN SOLUCION
+greedy,64,64,murallas,D10,a,1,0.002700,129,,,SIN SOLUCION
+greedy,64,64,murallas,D10,a,2,0.000900,129,,,SIN SOLUCION
+programacion dinamica,64,64,murallas,D10,b,0,0.105600,110721,588,3,OK
+programacion dinamica,64,64,murallas,D10,b,1,0.133200,110721,588,3,OK
+programacion dinamica,64,64,murallas,D10,b,2,0.122000,110721,588,3,OK
+greedy,64,64,murallas,D10,b,0,0.001500,256,350,3,OK
+greedy,64,64,murallas,D10,b,1,0.002600,256,350,3,OK
+greedy,64,64,murallas,D10,b,2,0.000900,256,350,3,OK
+programacion dinamica,64,64,murallas,D10,c,0,0.171400,110721,652,3,OK
+programacion dinamica,64,64,murallas,D10,c,1,0.196500,110721,652,3,OK
+programacion dinamica,64,64,murallas,D10,c,2,0.152300,110721,652,3,OK
+greedy,64,64,murallas,D10,c,0,0.001900,256,476,3,OK
+greedy,64,64,murallas,D10,c,1,0.004000,256,476,3,OK
+greedy,64,64,murallas,D10,c,2,0.001200,256,476,3,OK
+programacion dinamica,64,64,murallas,D1000,a,0,0.128400,110721,52041,3,OK
+programacion dinamica,64,64,murallas,D1000,a,1,0.128100,110721,52041,3,OK
+programacion dinamica,64,64,murallas,D1000,a,2,0.104900,110721,52041,3,OK
+greedy,64,64,murallas,D1000,a,0,0.001500,256,34967,3,OK
+greedy,64,64,murallas,D1000,a,1,0.002500,256,34967,3,OK
+greedy,64,64,murallas,D1000,a,2,0.000900,256,34967,3,OK
+programacion dinamica,64,64,murallas,D1000,b,0,0.129400,110721,59068,3,OK
+programacion dinamica,64,64,murallas,D1000,b,1,0.124900,110721,59068,3,OK
+programacion dinamica,64,64,murallas,D1000,b,2,0.109000,110721,59068,3,OK
+greedy,64,64,murallas,D1000,b,0,0.001400,256,37364,3,OK
+greedy,64,64,murallas,D1000,b,1,0.002200,256,37364,3,OK
+greedy,64,64,murallas,D1000,b,2,0.001000,256,37364,3,OK
+programacion dinamica,64,64,murallas,D1000,c,0,0.122000,110721,55804,3,OK
+programacion dinamica,64,64,murallas,D1000,c,1,0.202400,110721,55804,3,OK
+programacion dinamica,64,64,murallas,D1000,c,2,0.128800,110721,55804,3,OK
+greedy,64,64,murallas,D1000,c,0,0.001700,129,,,SIN SOLUCION
+greedy,64,64,murallas,D1000,c,1,0.003600,129,,,SIN SOLUCION
+greedy,64,64,murallas,D1000,c,2,0.001000,129,,,SIN SOLUCION
+programacion dinamica,64,64,minas,D10,a,0,0.111500,110721,594,3,OK
+programacion dinamica,64,64,minas,D10,a,1,0.161300,110721,594,3,OK
+programacion dinamica,64,64,minas,D10,a,2,0.109300,110721,594,3,OK
+greedy,64,64,minas,D10,a,0,0.001800,256,426,3,OK
+greedy,64,64,minas,D10,a,1,0.002300,256,426,3,OK
+greedy,64,64,minas,D10,a,2,0.001000,256,426,3,OK
+programacion dinamica,64,64,minas,D10,b,0,0.126400,110721,560,3,OK
+programacion dinamica,64,64,minas,D10,b,1,0.229500,110721,560,3,OK
+programacion dinamica,64,64,minas,D10,b,2,0.165000,110721,560,3,OK
+greedy,64,64,minas,D10,b,0,0.002500,256,447,3,OK
+greedy,64,64,minas,D10,b,1,0.002500,256,447,3,OK
+greedy,64,64,minas,D10,b,2,0.001100,256,447,3,OK
+programacion dinamica,64,64,minas,D10,c,0,0.123000,110721,603,2,OK
+programacion dinamica,64,64,minas,D10,c,1,0.149300,110721,603,2,OK
+programacion dinamica,64,64,minas,D10,c,2,0.122000,110721,603,2,OK
+greedy,64,64,minas,D10,c,0,0.001600,256,321,3,OK
+greedy,64,64,minas,D10,c,1,0.003700,256,321,3,OK
+greedy,64,64,minas,D10,c,2,0.001500,256,321,3,OK
+programacion dinamica,64,64,minas,D1000,a,0,0.132600,110721,61790,3,OK
+programacion dinamica,64,64,minas,D1000,a,1,0.142200,110721,61790,3,OK
+programacion dinamica,64,64,minas,D1000,a,2,0.116300,110721,61790,3,OK
+greedy,64,64,minas,D1000,a,0,0.001800,256,49295,3,OK
+greedy,64,64,minas,D1000,a,1,0.006700,256,49295,3,OK
+greedy,64,64,minas,D1000,a,2,0.001300,256,49295,3,OK
+programacion dinamica,64,64,minas,D1000,b,0,0.118200,110721,57185,3,OK
+programacion dinamica,64,64,minas,D1000,b,1,0.134800,110721,57185,3,OK
+programacion dinamica,64,64,minas,D1000,b,2,0.125900,110721,57185,3,OK
+greedy,64,64,minas,D1000,b,0,0.001600,256,31675,3,OK
+greedy,64,64,minas,D1000,b,1,0.004000,256,31675,3,OK
+greedy,64,64,minas,D1000,b,2,0.001000,256,31675,3,OK
+programacion dinamica,64,64,minas,D1000,c,0,0.145400,110721,56231,3,OK
+programacion dinamica,64,64,minas,D1000,c,1,0.130900,110721,56231,3,OK
+programacion dinamica,64,64,minas,D1000,c,2,0.114500,110721,56231,3,OK
+greedy,64,64,minas,D1000,c,0,0.001600,256,32394,3,OK
+greedy,64,64,minas,D1000,c,1,0.003000,256,32394,3,OK
+greedy,64,64,minas,D1000,c,2,0.001000,256,32394,3,OK
+programacion dinamica,64,64,mixta,D10,a,0,0.125400,110721,588,3,OK
+programacion dinamica,64,64,mixta,D10,a,1,0.139200,110721,588,3,OK
+programacion dinamica,64,64,mixta,D10,a,2,0.119500,110721,588,3,OK
+greedy,64,64,mixta,D10,a,0,0.001700,129,,,SIN SOLUCION
+greedy,64,64,mixta,D10,a,1,0.003600,129,,,SIN SOLUCION
+greedy,64,64,mixta,D10,a,2,0.000800,129,,,SIN SOLUCION
+programacion dinamica,64,64,mixta,D10,b,0,0.129600,110721,591,3,OK
+programacion dinamica,64,64,mixta,D10,b,1,0.138700,110721,591,3,OK
+programacion dinamica,64,64,mixta,D10,b,2,0.117300,110721,591,3,OK
+greedy,64,64,mixta,D10,b,0,0.001600,256,464,3,OK
+greedy,64,64,mixta,D10,b,1,0.004600,256,464,3,OK
+greedy,64,64,mixta,D10,b,2,0.001100,256,464,3,OK
+programacion dinamica,64,64,mixta,D10,c,0,0.126000,110721,595,3,OK
+programacion dinamica,64,64,mixta,D10,c,1,0.169400,110721,595,3,OK
+programacion dinamica,64,64,mixta,D10,c,2,0.121200,110721,595,3,OK
+greedy,64,64,mixta,D10,c,0,0.001800,256,287,3,OK
+greedy,64,64,mixta,D10,c,1,0.002700,256,287,3,OK
+greedy,64,64,mixta,D10,c,2,0.001200,256,287,3,OK
+programacion dinamica,64,64,mixta,D1000,a,0,0.139400,110721,49226,3,OK
+programacion dinamica,64,64,mixta,D1000,a,1,0.138000,110721,49226,3,OK
+programacion dinamica,64,64,mixta,D1000,a,2,0.116100,110721,49226,3,OK
+greedy,64,64,mixta,D1000,a,0,0.001700,256,34405,3,OK
+greedy,64,64,mixta,D1000,a,1,0.003000,256,34405,3,OK
+greedy,64,64,mixta,D1000,a,2,0.001200,256,34405,3,OK
+programacion dinamica,64,64,mixta,D1000,b,0,0.133200,110721,60228,3,OK
+programacion dinamica,64,64,mixta,D1000,b,1,0.128800,110721,60228,3,OK
+programacion dinamica,64,64,mixta,D1000,b,2,0.111300,110721,60228,3,OK
+greedy,64,64,mixta,D1000,b,0,0.001500,256,31646,3,OK
+greedy,64,64,mixta,D1000,b,1,0.002300,256,31646,3,OK
+greedy,64,64,mixta,D1000,b,2,0.001100,256,31646,3,OK
+programacion dinamica,64,64,mixta,D1000,c,0,0.137600,110721,57535,3,OK
+programacion dinamica,64,64,mixta,D1000,c,1,0.125300,110721,57535,3,OK
+programacion dinamica,64,64,mixta,D1000,c,2,0.108200,110721,57535,3,OK
+greedy,64,64,mixta,D1000,c,0,0.001400,129,,,SIN SOLUCION
+greedy,64,64,mixta,D1000,c,1,0.005400,129,,,SIN SOLUCION
+greedy,64,64,mixta,D1000,c,2,0.000900,129,,,SIN SOLUCION
+programacion dinamica,64,128,libre,D10,a,0,0.245700,221377,862,3,OK
+programacion dinamica,64,128,libre,D10,a,1,0.151700,221377,862,3,OK
+programacion dinamica,64,128,libre,D10,a,2,0.130200,221377,862,3,OK
+greedy,64,128,libre,D10,a,0,0.001800,384,349,3,OK
+greedy,64,128,libre,D10,a,1,0.003800,384,349,3,OK
+greedy,64,128,libre,D10,a,2,0.001200,384,349,3,OK
+programacion dinamica,64,128,libre,D10,b,0,0.240800,221377,999,3,OK
+programacion dinamica,64,128,libre,D10,b,1,0.189800,221377,999,3,OK
+programacion dinamica,64,128,libre,D10,b,2,0.135900,221377,999,3,OK
+greedy,64,128,libre,D10,b,0,0.002200,384,499,3,OK
+greedy,64,128,libre,D10,b,1,0.005400,384,499,3,OK
+greedy,64,128,libre,D10,b,2,0.001500,384,499,3,OK
+programacion dinamica,64,128,libre,D10,c,0,0.214600,221377,918,3,OK
+programacion dinamica,64,128,libre,D10,c,1,0.141000,221377,918,3,OK
+programacion dinamica,64,128,libre,D10,c,2,0.128600,221377,918,3,OK
+greedy,64,128,libre,D10,c,0,0.002300,384,520,3,OK
+greedy,64,128,libre,D10,c,1,0.006900,384,520,3,OK
+greedy,64,128,libre,D10,c,2,0.001600,384,520,3,OK
+programacion dinamica,64,128,libre,D1000,a,0,0.189600,221377,85083,3,OK
+programacion dinamica,64,128,libre,D1000,a,1,0.140400,221377,85083,3,OK
+programacion dinamica,64,128,libre,D1000,a,2,0.125100,221377,85083,3,OK
+greedy,64,128,libre,D1000,a,0,0.002000,384,40915,3,OK
+greedy,64,128,libre,D1000,a,1,0.004600,384,40915,3,OK
+greedy,64,128,libre,D1000,a,2,0.001200,384,40915,3,OK
+programacion dinamica,64,128,libre,D1000,b,0,0.193800,221377,85528,3,OK
+programacion dinamica,64,128,libre,D1000,b,1,0.136300,221377,85528,3,OK
+programacion dinamica,64,128,libre,D1000,b,2,0.127200,221377,85528,3,OK
+greedy,64,128,libre,D1000,b,0,0.002000,384,37598,3,OK
+greedy,64,128,libre,D1000,b,1,0.002700,384,37598,3,OK
+greedy,64,128,libre,D1000,b,2,0.001200,384,37598,3,OK
+programacion dinamica,64,128,libre,D1000,c,0,0.189900,221377,78076,3,OK
+programacion dinamica,64,128,libre,D1000,c,1,0.162700,221377,78076,3,OK
+programacion dinamica,64,128,libre,D1000,c,2,0.127700,221377,78076,3,OK
+greedy,64,128,libre,D1000,c,0,0.001900,384,41281,3,OK
+greedy,64,128,libre,D1000,c,1,0.004400,384,41281,3,OK
+greedy,64,128,libre,D1000,c,2,0.001200,384,41281,3,OK
+programacion dinamica,64,128,murallas,D10,a,0,0.223800,221377,913,3,OK
+programacion dinamica,64,128,murallas,D10,a,1,0.148300,221377,913,3,OK
+programacion dinamica,64,128,murallas,D10,a,2,0.136700,221377,913,3,OK
+greedy,64,128,murallas,D10,a,0,0.003600,384,604,3,OK
+greedy,64,128,murallas,D10,a,1,0.004700,384,604,3,OK
+greedy,64,128,murallas,D10,a,2,0.001600,384,604,3,OK
+programacion dinamica,64,128,murallas,D10,b,0,0.228900,221377,814,3,OK
+programacion dinamica,64,128,murallas,D10,b,1,0.164400,221377,814,3,OK
+programacion dinamica,64,128,murallas,D10,b,2,0.140600,221377,814,3,OK
+greedy,64,128,murallas,D10,b,0,0.002300,384,447,3,OK
+greedy,64,128,murallas,D10,b,1,0.006000,384,447,3,OK
+greedy,64,128,murallas,D10,b,2,0.002500,384,447,3,OK
+programacion dinamica,64,128,murallas,D10,c,0,0.231800,221377,928,3,OK
+programacion dinamica,64,128,murallas,D10,c,1,0.171500,221377,928,3,OK
+programacion dinamica,64,128,murallas,D10,c,2,0.141300,221377,928,3,OK
+greedy,64,128,murallas,D10,c,0,0.001900,193,,,SIN SOLUCION
+greedy,64,128,murallas,D10,c,1,0.007000,193,,,SIN SOLUCION
+greedy,64,128,murallas,D10,c,2,0.001600,193,,,SIN SOLUCION
+programacion dinamica,64,128,murallas,D1000,a,0,0.212900,221377,82269,3,OK
+programacion dinamica,64,128,murallas,D1000,a,1,0.178000,221377,82269,3,OK
+programacion dinamica,64,128,murallas,D1000,a,2,0.145500,221377,82269,3,OK
+greedy,64,128,murallas,D1000,a,0,0.002000,193,,,SIN SOLUCION
+greedy,64,128,murallas,D1000,a,1,0.004100,193,,,SIN SOLUCION
+greedy,64,128,murallas,D1000,a,2,0.001200,193,,,SIN SOLUCION
+programacion dinamica,64,128,murallas,D1000,b,0,0.228000,221377,85624,3,OK
+programacion dinamica,64,128,murallas,D1000,b,1,0.140400,221377,85624,3,OK
+programacion dinamica,64,128,murallas,D1000,b,2,0.128700,221377,85624,3,OK
+greedy,64,128,murallas,D1000,b,0,0.001800,193,,,SIN SOLUCION
+greedy,64,128,murallas,D1000,b,1,0.003000,193,,,SIN SOLUCION
+greedy,64,128,murallas,D1000,b,2,0.001300,193,,,SIN SOLUCION
+programacion dinamica,64,128,murallas,D1000,c,0,0.219200,221377,81091,3,OK
+programacion dinamica,64,128,murallas,D1000,c,1,0.166100,221377,81091,3,OK
+programacion dinamica,64,128,murallas,D1000,c,2,0.130800,221377,81091,3,OK
+greedy,64,128,murallas,D1000,c,0,0.002300,384,40652,3,OK
+greedy,64,128,murallas,D1000,c,1,0.003700,384,40652,3,OK
+greedy,64,128,murallas,D1000,c,2,0.001400,384,40652,3,OK
+programacion dinamica,64,128,minas,D10,a,0,0.242600,221377,872,3,OK
+programacion dinamica,64,128,minas,D10,a,1,0.152800,221377,872,3,OK
+programacion dinamica,64,128,minas,D10,a,2,0.134200,221377,872,3,OK
+greedy,64,128,minas,D10,a,0,0.002400,384,475,2,OK
+greedy,64,128,minas,D10,a,1,0.004000,384,475,2,OK
+greedy,64,128,minas,D10,a,2,0.001300,384,475,2,OK
+programacion dinamica,64,128,minas,D10,b,0,0.209600,221377,886,3,OK
+programacion dinamica,64,128,minas,D10,b,1,0.148300,221377,886,3,OK
+programacion dinamica,64,128,minas,D10,b,2,0.213700,221377,886,3,OK
+greedy,64,128,minas,D10,b,0,0.002300,384,414,1,OK
+greedy,64,128,minas,D10,b,1,0.003900,384,414,1,OK
+greedy,64,128,minas,D10,b,2,0.001600,384,414,1,OK
+programacion dinamica,64,128,minas,D10,c,0,0.213200,221377,815,3,OK
+programacion dinamica,64,128,minas,D10,c,1,0.153300,221377,815,3,OK
+programacion dinamica,64,128,minas,D10,c,2,0.208800,221377,815,3,OK
+greedy,64,128,minas,D10,c,0,0.003700,384,344,2,OK
+greedy,64,128,minas,D10,c,1,0.006400,384,344,2,OK
+greedy,64,128,minas,D10,c,2,0.001700,384,344,2,OK
+programacion dinamica,64,128,minas,D1000,a,0,0.202000,221377,73085,3,OK
+programacion dinamica,64,128,minas,D1000,a,1,0.166200,221377,73085,3,OK
+programacion dinamica,64,128,minas,D1000,a,2,0.139600,221377,73085,3,OK
+greedy,64,128,minas,D1000,a,0,0.002400,384,31105,3,OK
+greedy,64,128,minas,D1000,a,1,0.006000,384,31105,3,OK
+greedy,64,128,minas,D1000,a,2,0.002400,384,31105,3,OK
+programacion dinamica,64,128,minas,D1000,b,0,0.211000,221377,76196,3,OK
+programacion dinamica,64,128,minas,D1000,b,1,0.176200,221377,76196,3,OK
+programacion dinamica,64,128,minas,D1000,b,2,0.140100,221377,76196,3,OK
+greedy,64,128,minas,D1000,b,0,0.002400,384,38741,3,OK
+greedy,64,128,minas,D1000,b,1,0.003700,384,38741,3,OK
+greedy,64,128,minas,D1000,b,2,0.001800,384,38741,3,OK
+programacion dinamica,64,128,minas,D1000,c,0,0.192200,221377,85708,3,OK
+programacion dinamica,64,128,minas,D1000,c,1,0.185800,221377,85708,3,OK
+programacion dinamica,64,128,minas,D1000,c,2,0.135700,221377,85708,3,OK
+greedy,64,128,minas,D1000,c,0,0.002300,384,38163,3,OK
+greedy,64,128,minas,D1000,c,1,0.003800,384,38163,3,OK
+greedy,64,128,minas,D1000,c,2,0.001500,384,38163,3,OK
+programacion dinamica,64,128,mixta,D10,a,0,0.203100,221377,868,3,OK
+programacion dinamica,64,128,mixta,D10,a,1,0.140800,221377,868,3,OK
+programacion dinamica,64,128,mixta,D10,a,2,0.127800,221377,868,3,OK
+greedy,64,128,mixta,D10,a,0,0.001900,193,,,SIN SOLUCION
+greedy,64,128,mixta,D10,a,1,0.003200,193,,,SIN SOLUCION
+greedy,64,128,mixta,D10,a,2,0.001200,193,,,SIN SOLUCION
+programacion dinamica,64,128,mixta,D10,b,0,0.189500,221377,916,3,OK
+programacion dinamica,64,128,mixta,D10,b,1,0.141100,221377,916,3,OK
+programacion dinamica,64,128,mixta,D10,b,2,0.132500,221377,916,3,OK
+greedy,64,128,mixta,D10,b,0,0.002200,384,648,3,OK
+greedy,64,128,mixta,D10,b,1,0.003400,384,648,3,OK
+greedy,64,128,mixta,D10,b,2,0.001400,384,648,3,OK
+programacion dinamica,64,128,mixta,D10,c,0,0.204100,221377,872,3,OK
+programacion dinamica,64,128,mixta,D10,c,1,0.152500,221377,872,3,OK
+programacion dinamica,64,128,mixta,D10,c,2,0.126800,221377,872,3,OK
+greedy,64,128,mixta,D10,c,0,0.001900,193,,,SIN SOLUCION
+greedy,64,128,mixta,D10,c,1,0.003400,193,,,SIN SOLUCION
+greedy,64,128,mixta,D10,c,2,0.001200,193,,,SIN SOLUCION
+programacion dinamica,64,128,mixta,D1000,a,0,0.204700,221377,78357,3,OK
+programacion dinamica,64,128,mixta,D1000,a,1,0.138900,221377,78357,3,OK
+programacion dinamica,64,128,mixta,D1000,a,2,0.123000,221377,78357,3,OK
+greedy,64,128,mixta,D1000,a,0,0.001700,193,,,SIN SOLUCION
+greedy,64,128,mixta,D1000,a,1,0.003400,193,,,SIN SOLUCION
+greedy,64,128,mixta,D1000,a,2,0.001000,193,,,SIN SOLUCION
+programacion dinamica,64,128,mixta,D1000,b,0,0.238700,221377,82798,3,OK
+programacion dinamica,64,128,mixta,D1000,b,1,0.149700,221377,82798,3,OK
+programacion dinamica,64,128,mixta,D1000,b,2,0.130700,221377,82798,3,OK
+greedy,64,128,mixta,D1000,b,0,0.002200,384,45947,3,OK
+greedy,64,128,mixta,D1000,b,1,0.003900,384,45947,3,OK
+greedy,64,128,mixta,D1000,b,2,0.001400,384,45947,3,OK
+programacion dinamica,64,128,mixta,D1000,c,0,0.205000,221377,80917,3,OK
+programacion dinamica,64,128,mixta,D1000,c,1,0.153700,221377,80917,3,OK
+programacion dinamica,64,128,mixta,D1000,c,2,0.143600,221377,80917,3,OK
+greedy,64,128,mixta,D1000,c,0,0.002400,384,40387,1,OK
+greedy,64,128,mixta,D1000,c,1,0.007800,384,40387,1,OK
+greedy,64,128,mixta,D1000,c,2,0.001500,384,40387,1,OK
+programacion dinamica,256,256,libre,D10,a,0,1.676700,1769985,2475,3,OK
+programacion dinamica,256,256,libre,D10,a,1,1.616600,1769985,2475,3,OK
+programacion dinamica,256,256,libre,D10,a,2,1.534200,1769985,2475,3,OK
+greedy,256,256,libre,D10,a,0,0.007200,1024,1682,3,OK
+greedy,256,256,libre,D10,a,1,0.008800,1024,1682,3,OK
+greedy,256,256,libre,D10,a,2,0.003500,1024,1682,3,OK
+programacion dinamica,256,256,libre,D10,b,0,1.621700,1769985,2510,3,OK
+programacion dinamica,256,256,libre,D10,b,1,1.609100,1769985,2510,3,OK
+programacion dinamica,256,256,libre,D10,b,2,1.538200,1769985,2510,3,OK
+greedy,256,256,libre,D10,b,0,0.006700,1024,1450,3,OK
+greedy,256,256,libre,D10,b,1,0.008600,1024,1450,3,OK
+greedy,256,256,libre,D10,b,2,0.003800,1024,1450,3,OK
+programacion dinamica,256,256,libre,D10,c,0,1.669500,1769985,2609,3,OK
+programacion dinamica,256,256,libre,D10,c,1,1.518700,1769985,2609,3,OK
+programacion dinamica,256,256,libre,D10,c,2,1.493300,1769985,2609,3,OK
+greedy,256,256,libre,D10,c,0,0.007100,1024,1713,3,OK
+greedy,256,256,libre,D10,c,1,0.007200,1024,1713,3,OK
+greedy,256,256,libre,D10,c,2,0.003800,1024,1713,3,OK
+programacion dinamica,256,256,libre,D1000,a,0,1.625900,1769985,251497,3,OK
+programacion dinamica,256,256,libre,D1000,a,1,1.456300,1769985,251497,3,OK
+programacion dinamica,256,256,libre,D1000,a,2,1.436000,1769985,251497,3,OK
+greedy,256,256,libre,D1000,a,0,0.006000,1024,165579,3,OK
+greedy,256,256,libre,D1000,a,1,0.008500,1024,165579,3,OK
+greedy,256,256,libre,D1000,a,2,0.003900,1024,165579,3,OK
+programacion dinamica,256,256,libre,D1000,b,0,1.876500,1769985,247840,3,OK
+programacion dinamica,256,256,libre,D1000,b,1,1.567900,1769985,247840,3,OK
+programacion dinamica,256,256,libre,D1000,b,2,1.741800,1769985,247840,3,OK
+greedy,256,256,libre,D1000,b,0,0.008500,1024,137996,3,OK
+greedy,256,256,libre,D1000,b,1,0.010600,1024,137996,3,OK
+greedy,256,256,libre,D1000,b,2,0.003600,1024,137996,3,OK
+programacion dinamica,256,256,libre,D1000,c,0,1.752100,1769985,240448,3,OK
+programacion dinamica,256,256,libre,D1000,c,1,2.058900,1769985,240448,3,OK
+programacion dinamica,256,256,libre,D1000,c,2,2.087000,1769985,240448,3,OK
+greedy,256,256,libre,D1000,c,0,0.008000,1024,152290,3,OK
+greedy,256,256,libre,D1000,c,1,0.008300,1024,152290,3,OK
+greedy,256,256,libre,D1000,c,2,0.004800,1024,152290,3,OK
+programacion dinamica,256,256,murallas,D10,a,0,1.675600,1769985,2526,3,OK
+programacion dinamica,256,256,murallas,D10,a,1,1.660800,1769985,2526,3,OK
+programacion dinamica,256,256,murallas,D10,a,2,1.462300,1769985,2526,3,OK
+greedy,256,256,murallas,D10,a,0,0.006600,1024,1612,3,OK
+greedy,256,256,murallas,D10,a,1,0.007700,1024,1612,3,OK
+greedy,256,256,murallas,D10,a,2,0.004000,1024,1612,3,OK
+programacion dinamica,256,256,murallas,D10,b,0,1.445000,1769985,2571,3,OK
+programacion dinamica,256,256,murallas,D10,b,1,1.773000,1769985,2571,3,OK
+programacion dinamica,256,256,murallas,D10,b,2,1.440900,1769985,2571,3,OK
+greedy,256,256,murallas,D10,b,0,0.006700,1024,1784,3,OK
+greedy,256,256,murallas,D10,b,1,0.009000,1024,1784,3,OK
+greedy,256,256,murallas,D10,b,2,0.003600,1024,1784,3,OK
+programacion dinamica,256,256,murallas,D10,c,0,1.547700,1769985,2495,3,OK
+programacion dinamica,256,256,murallas,D10,c,1,1.674100,1769985,2495,3,OK
+programacion dinamica,256,256,murallas,D10,c,2,1.724900,1769985,2495,3,OK
+greedy,256,256,murallas,D10,c,0,0.008400,1024,1844,3,OK
+greedy,256,256,murallas,D10,c,1,0.010200,1024,1844,3,OK
+greedy,256,256,murallas,D10,c,2,0.004000,1024,1844,3,OK
+programacion dinamica,256,256,murallas,D1000,a,0,1.861800,1769985,246966,3,OK
+programacion dinamica,256,256,murallas,D1000,a,1,1.618700,1769985,246966,3,OK
+programacion dinamica,256,256,murallas,D1000,a,2,1.551900,1769985,246966,3,OK
+greedy,256,256,murallas,D1000,a,0,0.007200,1024,178265,3,OK
+greedy,256,256,murallas,D1000,a,1,0.011100,1024,178265,3,OK
+greedy,256,256,murallas,D1000,a,2,0.004000,1024,178265,3,OK
+programacion dinamica,256,256,murallas,D1000,b,0,1.612800,1769985,241912,3,OK
+programacion dinamica,256,256,murallas,D1000,b,1,1.521700,1769985,241912,3,OK
+programacion dinamica,256,256,murallas,D1000,b,2,1.636300,1769985,241912,3,OK
+greedy,256,256,murallas,D1000,b,0,0.007300,1024,152700,3,OK
+greedy,256,256,murallas,D1000,b,1,0.009100,1024,152700,3,OK
+greedy,256,256,murallas,D1000,b,2,0.003300,1024,152700,3,OK
+programacion dinamica,256,256,murallas,D1000,c,0,1.605100,1769985,247923,3,OK
+programacion dinamica,256,256,murallas,D1000,c,1,1.441800,1769985,247923,3,OK
+programacion dinamica,256,256,murallas,D1000,c,2,1.479500,1769985,247923,3,OK
+greedy,256,256,murallas,D1000,c,0,0.007400,1024,173963,3,OK
+greedy,256,256,murallas,D1000,c,1,0.008700,1024,173963,3,OK
+greedy,256,256,murallas,D1000,c,2,0.004100,1024,173963,3,OK
+programacion dinamica,256,256,minas,D10,a,0,1.649400,1769985,2429,2,OK
+programacion dinamica,256,256,minas,D10,a,1,1.611100,1769985,2429,2,OK
+programacion dinamica,256,256,minas,D10,a,2,1.731200,1769985,2429,2,OK
+greedy,256,256,minas,D10,a,0,0.008800,1024,1586,2,OK
+greedy,256,256,minas,D10,a,1,0.008700,1024,1586,2,OK
+greedy,256,256,minas,D10,a,2,0.003800,1024,1586,2,OK
+programacion dinamica,256,256,minas,D10,b,0,1.521900,1769985,2552,3,OK
+programacion dinamica,256,256,minas,D10,b,1,1.468600,1769985,2552,3,OK
+programacion dinamica,256,256,minas,D10,b,2,1.411600,1769985,2552,3,OK
+greedy,256,256,minas,D10,b,0,0.006600,1024,1682,3,OK
+greedy,256,256,minas,D10,b,1,0.007900,1024,1682,3,OK
+greedy,256,256,minas,D10,b,2,0.003700,1024,1682,3,OK
+programacion dinamica,256,256,minas,D10,c,0,1.651700,1769985,2615,2,OK
+programacion dinamica,256,256,minas,D10,c,1,1.677200,1769985,2615,2,OK
+programacion dinamica,256,256,minas,D10,c,2,2.534400,1769985,2615,2,OK
+greedy,256,256,minas,D10,c,0,0.016600,1024,1692,3,OK
+greedy,256,256,minas,D10,c,1,0.012000,1024,1692,3,OK
+greedy,256,256,minas,D10,c,2,0.004200,1024,1692,3,OK
+programacion dinamica,256,256,minas,D1000,a,0,2.026400,1769985,249015,3,OK
+programacion dinamica,256,256,minas,D1000,a,1,1.685600,1769985,249015,3,OK
+programacion dinamica,256,256,minas,D1000,a,2,1.610400,1769985,249015,3,OK
+greedy,256,256,minas,D1000,a,0,0.006300,1024,147643,3,OK
+greedy,256,256,minas,D1000,a,1,0.009200,1024,147643,3,OK
+greedy,256,256,minas,D1000,a,2,0.003900,1024,147643,3,OK
+programacion dinamica,256,256,minas,D1000,b,0,1.727000,1769985,250624,2,OK
+programacion dinamica,256,256,minas,D1000,b,1,1.547400,1769985,250624,2,OK
+programacion dinamica,256,256,minas,D1000,b,2,1.506000,1769985,250624,2,OK
+greedy,256,256,minas,D1000,b,0,0.006500,1024,164418,3,OK
+greedy,256,256,minas,D1000,b,1,0.007300,1024,164418,3,OK
+greedy,256,256,minas,D1000,b,2,0.003800,1024,164418,3,OK
+programacion dinamica,256,256,minas,D1000,c,0,1.560300,1769985,248572,3,OK
+programacion dinamica,256,256,minas,D1000,c,1,1.519800,1769985,248572,3,OK
+programacion dinamica,256,256,minas,D1000,c,2,1.488900,1769985,248572,3,OK
+greedy,256,256,minas,D1000,c,0,0.006300,1024,167008,3,OK
+greedy,256,256,minas,D1000,c,1,0.008200,1024,167008,3,OK
+greedy,256,256,minas,D1000,c,2,0.003600,1024,167008,3,OK
+programacion dinamica,256,256,mixta,D10,a,0,2.345600,1769985,2521,3,OK
+programacion dinamica,256,256,mixta,D10,a,1,2.590400,1769985,2521,3,OK
+programacion dinamica,256,256,mixta,D10,a,2,2.013500,1769985,2521,3,OK
+greedy,256,256,mixta,D10,a,0,0.009700,1024,1627,3,OK
+greedy,256,256,mixta,D10,a,1,0.014000,1024,1627,3,OK
+greedy,256,256,mixta,D10,a,2,0.005600,1024,1627,3,OK
+programacion dinamica,256,256,mixta,D10,b,0,1.846500,1769985,2497,3,OK
+programacion dinamica,256,256,mixta,D10,b,1,1.663600,1769985,2497,3,OK
+programacion dinamica,256,256,mixta,D10,b,2,1.710800,1769985,2497,3,OK
+greedy,256,256,mixta,D10,b,0,0.008100,513,,,SIN SOLUCION
+greedy,256,256,mixta,D10,b,1,0.009800,513,,,SIN SOLUCION
+greedy,256,256,mixta,D10,b,2,0.004100,513,,,SIN SOLUCION
+programacion dinamica,256,256,mixta,D10,c,0,1.635000,1769985,2616,3,OK
+programacion dinamica,256,256,mixta,D10,c,1,1.584700,1769985,2616,3,OK
+programacion dinamica,256,256,mixta,D10,c,2,1.544700,1769985,2616,3,OK
+greedy,256,256,mixta,D10,c,0,0.007000,1024,1516,2,OK
+greedy,256,256,mixta,D10,c,1,0.007600,1024,1516,2,OK
+greedy,256,256,mixta,D10,c,2,0.003400,1024,1516,2,OK
+programacion dinamica,256,256,mixta,D1000,a,0,1.664200,1769985,243394,3,OK
+programacion dinamica,256,256,mixta,D1000,a,1,1.588600,1769985,243394,3,OK
+programacion dinamica,256,256,mixta,D1000,a,2,1.566300,1769985,243394,3,OK
+greedy,256,256,mixta,D1000,a,0,0.006900,1024,171341,3,OK
+greedy,256,256,mixta,D1000,a,1,0.008500,1024,171341,3,OK
+greedy,256,256,mixta,D1000,a,2,0.003900,1024,171341,3,OK
+programacion dinamica,256,256,mixta,D1000,b,0,1.642700,1769985,238189,3,OK
+programacion dinamica,256,256,mixta,D1000,b,1,1.651300,1769985,238189,3,OK
+programacion dinamica,256,256,mixta,D1000,b,2,1.565100,1769985,238189,3,OK
+greedy,256,256,mixta,D1000,b,0,0.006300,1024,150084,3,OK
+greedy,256,256,mixta,D1000,b,1,0.007500,1024,150084,3,OK
+greedy,256,256,mixta,D1000,b,2,0.003200,1024,150084,3,OK
+programacion dinamica,256,256,mixta,D1000,c,0,1.852400,1769985,245642,3,OK
+programacion dinamica,256,256,mixta,D1000,c,1,1.853700,1769985,245642,3,OK
+programacion dinamica,256,256,mixta,D1000,c,2,1.913300,1769985,245642,3,OK
+greedy,256,256,mixta,D1000,c,0,0.008100,1024,164169,3,OK
+greedy,256,256,mixta,D1000,c,1,0.010600,1024,164169,3,OK
+greedy,256,256,mixta,D1000,c,2,0.004100,1024,164169,3,OK
+programacion dinamica,256,512,libre,D10,a,0,3.391000,3539713,3763,3,OK
+programacion dinamica,256,512,libre,D10,a,1,3.045500,3539713,3763,3,OK
+programacion dinamica,256,512,libre,D10,a,2,2.897000,3539713,3763,3,OK
+greedy,256,512,libre,D10,a,0,0.013500,1536,1875,3,OK
+greedy,256,512,libre,D10,a,1,0.010200,1536,1875,3,OK
+greedy,256,512,libre,D10,a,2,0.004700,1536,1875,3,OK
+programacion dinamica,256,512,libre,D10,b,0,2.941900,3539713,3678,3,OK
+programacion dinamica,256,512,libre,D10,b,1,3.431400,3539713,3678,3,OK
+programacion dinamica,256,512,libre,D10,b,2,3.013200,3539713,3678,3,OK
+greedy,256,512,libre,D10,b,0,0.010800,1536,2002,3,OK
+greedy,256,512,libre,D10,b,1,0.013900,1536,2002,3,OK
+greedy,256,512,libre,D10,b,2,0.004700,1536,2002,3,OK
+programacion dinamica,256,512,libre,D10,c,0,2.975400,3539713,3652,3,OK
+programacion dinamica,256,512,libre,D10,c,1,3.068800,3539713,3652,3,OK
+programacion dinamica,256,512,libre,D10,c,2,3.358600,3539713,3652,3,OK
+greedy,256,512,libre,D10,c,0,0.015200,1536,1801,3,OK
+greedy,256,512,libre,D10,c,1,0.018700,1536,1801,3,OK
+greedy,256,512,libre,D10,c,2,0.005400,1536,1801,3,OK
+programacion dinamica,256,512,libre,D1000,a,0,3.284900,3539713,350821,3,OK
+programacion dinamica,256,512,libre,D1000,a,1,3.285000,3539713,350821,3,OK
+programacion dinamica,256,512,libre,D1000,a,2,3.058500,3539713,350821,3,OK
+greedy,256,512,libre,D1000,a,0,0.011400,1536,136180,3,OK
+greedy,256,512,libre,D1000,a,1,0.011500,1536,136180,3,OK
+greedy,256,512,libre,D1000,a,2,0.004700,1536,136180,3,OK
+programacion dinamica,256,512,libre,D1000,b,0,2.949000,3539713,351337,3,OK
+programacion dinamica,256,512,libre,D1000,b,1,3.072400,3539713,351337,3,OK
+programacion dinamica,256,512,libre,D1000,b,2,2.923000,3539713,351337,3,OK
+greedy,256,512,libre,D1000,b,0,0.009500,1536,173264,3,OK
+greedy,256,512,libre,D1000,b,1,0.014500,1536,173264,3,OK
+greedy,256,512,libre,D1000,b,2,0.005200,1536,173264,3,OK
+programacion dinamica,256,512,libre,D1000,c,0,3.044000,3539713,343795,3,OK
+programacion dinamica,256,512,libre,D1000,c,1,4.188300,3539713,343795,3,OK
+programacion dinamica,256,512,libre,D1000,c,2,4.088500,3539713,343795,3,OK
+greedy,256,512,libre,D1000,c,0,0.017400,1536,181989,3,OK
+greedy,256,512,libre,D1000,c,1,0.024000,1536,181989,3,OK
+greedy,256,512,libre,D1000,c,2,0.005500,1536,181989,3,OK
+programacion dinamica,256,512,murallas,D10,a,0,3.142900,3539713,3720,3,OK
+programacion dinamica,256,512,murallas,D10,a,1,3.222900,3539713,3720,3,OK
+programacion dinamica,256,512,murallas,D10,a,2,3.119500,3539713,3720,3,OK
+greedy,256,512,murallas,D10,a,0,0.009800,769,,,SIN SOLUCION
+greedy,256,512,murallas,D10,a,1,0.012300,769,,,SIN SOLUCION
+greedy,256,512,murallas,D10,a,2,0.004400,769,,,SIN SOLUCION
+programacion dinamica,256,512,murallas,D10,b,0,3.275900,3539713,3745,3,OK
+programacion dinamica,256,512,murallas,D10,b,1,3.716300,3539713,3745,3,OK
+programacion dinamica,256,512,murallas,D10,b,2,3.300500,3539713,3745,3,OK
+greedy,256,512,murallas,D10,b,0,0.012600,1536,2001,3,OK
+greedy,256,512,murallas,D10,b,1,0.011300,1536,2001,3,OK
+greedy,256,512,murallas,D10,b,2,0.005500,1536,2001,3,OK
+programacion dinamica,256,512,murallas,D10,c,0,3.604000,3539713,3768,3,OK
+programacion dinamica,256,512,murallas,D10,c,1,3.302700,3539713,3768,3,OK
+programacion dinamica,256,512,murallas,D10,c,2,3.149600,3539713,3768,3,OK
+greedy,256,512,murallas,D10,c,0,0.011400,1536,2228,3,OK
+greedy,256,512,murallas,D10,c,1,0.015700,1536,2228,3,OK
+greedy,256,512,murallas,D10,c,2,0.005100,1536,2228,3,OK
+programacion dinamica,256,512,murallas,D1000,a,0,3.290000,3539713,352586,3,OK
+programacion dinamica,256,512,murallas,D1000,a,1,3.184600,3539713,352586,3,OK
+programacion dinamica,256,512,murallas,D1000,a,2,3.383900,3539713,352586,3,OK
+greedy,256,512,murallas,D1000,a,0,0.010300,769,,,SIN SOLUCION
+greedy,256,512,murallas,D1000,a,1,0.011000,769,,,SIN SOLUCION
+greedy,256,512,murallas,D1000,a,2,0.004200,769,,,SIN SOLUCION
+programacion dinamica,256,512,murallas,D1000,b,0,3.127200,3539713,356488,3,OK
+programacion dinamica,256,512,murallas,D1000,b,1,3.348900,3539713,356488,3,OK
+programacion dinamica,256,512,murallas,D1000,b,2,3.345100,3539713,356488,3,OK
+greedy,256,512,murallas,D1000,b,0,0.013200,1536,186025,3,OK
+greedy,256,512,murallas,D1000,b,1,0.015300,1536,186025,3,OK
+greedy,256,512,murallas,D1000,b,2,0.005300,1536,186025,3,OK
+programacion dinamica,256,512,murallas,D1000,c,0,3.479900,3539713,340544,3,OK
+programacion dinamica,256,512,murallas,D1000,c,1,3.600600,3539713,340544,3,OK
+programacion dinamica,256,512,murallas,D1000,c,2,3.617800,3539713,340544,3,OK
+greedy,256,512,murallas,D1000,c,0,0.015400,1536,144104,3,OK
+greedy,256,512,murallas,D1000,c,1,0.022000,1536,144104,3,OK
+greedy,256,512,murallas,D1000,c,2,0.005100,1536,144104,3,OK
+programacion dinamica,256,512,minas,D10,a,0,3.480300,3539713,3709,3,OK
+programacion dinamica,256,512,minas,D10,a,1,3.712000,3539713,3709,3,OK
+programacion dinamica,256,512,minas,D10,a,2,3.291600,3539713,3709,3,OK
+greedy,256,512,minas,D10,a,0,0.012700,1536,2111,3,OK
+greedy,256,512,minas,D10,a,1,0.016000,1536,2111,3,OK
+greedy,256,512,minas,D10,a,2,0.005300,1536,2111,3,OK
+programacion dinamica,256,512,minas,D10,b,0,2.991600,3539713,3611,3,OK
+programacion dinamica,256,512,minas,D10,b,1,3.152600,3539713,3611,3,OK
+programacion dinamica,256,512,minas,D10,b,2,3.220200,3539713,3611,3,OK
+greedy,256,512,minas,D10,b,0,0.013200,1536,2129,3,OK
+greedy,256,512,minas,D10,b,1,0.015300,1536,2129,3,OK
+greedy,256,512,minas,D10,b,2,0.005200,1536,2129,3,OK
+programacion dinamica,256,512,minas,D10,c,0,3.870600,3539713,3649,3,OK
+programacion dinamica,256,512,minas,D10,c,1,3.662500,3539713,3649,3,OK
+programacion dinamica,256,512,minas,D10,c,2,3.247400,3539713,3649,3,OK
+greedy,256,512,minas,D10,c,0,0.012400,1536,1844,3,OK
+greedy,256,512,minas,D10,c,1,0.012900,1536,1844,3,OK
+greedy,256,512,minas,D10,c,2,0.005000,1536,1844,3,OK
+programacion dinamica,256,512,minas,D1000,a,0,3.053500,3539713,356965,3,OK
+programacion dinamica,256,512,minas,D1000,a,1,3.089800,3539713,356965,3,OK
+programacion dinamica,256,512,minas,D1000,a,2,3.057700,3539713,356965,3,OK
+greedy,256,512,minas,D1000,a,0,0.011300,1536,187321,1,OK
+greedy,256,512,minas,D1000,a,1,0.012300,1536,187321,1,OK
+greedy,256,512,minas,D1000,a,2,0.004900,1536,187321,1,OK
+programacion dinamica,256,512,minas,D1000,b,0,3.147600,3539713,351802,3,OK
+programacion dinamica,256,512,minas,D1000,b,1,3.108800,3539713,351802,3,OK
+programacion dinamica,256,512,minas,D1000,b,2,2.981000,3539713,351802,3,OK
+greedy,256,512,minas,D1000,b,0,0.011400,1536,176170,3,OK
+greedy,256,512,minas,D1000,b,1,0.022000,1536,176170,3,OK
+greedy,256,512,minas,D1000,b,2,0.011700,1536,176170,3,OK
+programacion dinamica,256,512,minas,D1000,c,0,3.722400,3539713,354137,3,OK
+programacion dinamica,256,512,minas,D1000,c,1,3.636500,3539713,354137,3,OK
+programacion dinamica,256,512,minas,D1000,c,2,3.241400,3539713,354137,3,OK
+greedy,256,512,minas,D1000,c,0,0.010500,1536,175578,2,OK
+greedy,256,512,minas,D1000,c,1,0.022700,1536,175578,2,OK
+greedy,256,512,minas,D1000,c,2,0.005200,1536,175578,2,OK
+programacion dinamica,256,512,mixta,D10,a,0,3.114800,3539713,3648,3,OK
+programacion dinamica,256,512,mixta,D10,a,1,3.144100,3539713,3648,3,OK
+programacion dinamica,256,512,mixta,D10,a,2,3.103000,3539713,3648,3,OK
+greedy,256,512,mixta,D10,a,0,0.011300,1536,2118,3,OK
+greedy,256,512,mixta,D10,a,1,0.013500,1536,2118,3,OK
+greedy,256,512,mixta,D10,a,2,0.006400,1536,2118,3,OK
+programacion dinamica,256,512,mixta,D10,b,0,3.170600,3539713,3637,3,OK
+programacion dinamica,256,512,mixta,D10,b,1,3.288100,3539713,3637,3,OK
+programacion dinamica,256,512,mixta,D10,b,2,3.087200,3539713,3637,3,OK
+greedy,256,512,mixta,D10,b,0,0.012300,1536,1811,2,OK
+greedy,256,512,mixta,D10,b,1,0.032600,1536,1811,2,OK
+greedy,256,512,mixta,D10,b,2,0.005000,1536,1811,2,OK
+programacion dinamica,256,512,mixta,D10,c,0,3.270500,3539713,3621,3,OK
+programacion dinamica,256,512,mixta,D10,c,1,3.084500,3539713,3621,3,OK
+programacion dinamica,256,512,mixta,D10,c,2,3.664500,3539713,3621,3,OK
+greedy,256,512,mixta,D10,c,0,0.017100,1536,1589,3,OK
+greedy,256,512,mixta,D10,c,1,0.014900,1536,1589,3,OK
+greedy,256,512,mixta,D10,c,2,0.005200,1536,1589,3,OK
+programacion dinamica,256,512,mixta,D1000,a,0,3.075700,3539713,348192,3,OK
+programacion dinamica,256,512,mixta,D1000,a,1,3.136500,3539713,348192,3,OK
+programacion dinamica,256,512,mixta,D1000,a,2,3.815500,3539713,348192,3,OK
+greedy,256,512,mixta,D1000,a,0,0.018700,1536,164697,2,OK
+greedy,256,512,mixta,D1000,a,1,0.015000,1536,164697,2,OK
+greedy,256,512,mixta,D1000,a,2,0.004900,1536,164697,2,OK
+programacion dinamica,256,512,mixta,D1000,b,0,3.025500,3539713,353263,3,OK
+programacion dinamica,256,512,mixta,D1000,b,1,3.028000,3539713,353263,3,OK
+programacion dinamica,256,512,mixta,D1000,b,2,2.769300,3539713,353263,3,OK
+greedy,256,512,mixta,D1000,b,0,0.010500,1536,149780,3,OK
+greedy,256,512,mixta,D1000,b,1,0.037700,1536,149780,3,OK
+greedy,256,512,mixta,D1000,b,2,0.005000,1536,149780,3,OK
+programacion dinamica,256,512,mixta,D1000,c,0,3.003500,3539713,347344,3,OK
+programacion dinamica,256,512,mixta,D1000,c,1,3.026500,3539713,347344,3,OK
+programacion dinamica,256,512,mixta,D1000,c,2,2.768800,3539713,347344,3,OK
+greedy,256,512,mixta,D1000,c,0,0.011300,1536,163499,3,OK
+greedy,256,512,mixta,D1000,c,1,0.011100,1536,163499,3,OK
+greedy,256,512,mixta,D1000,c,2,0.004800,1536,163499,3,OK
+programacion dinamica,1024,1024,libre,D10,a,0,24.940500,28313601,10652,3,OK
+programacion dinamica,1024,1024,libre,D10,a,1,27.414100,28313601,10652,3,OK
+programacion dinamica,1024,1024,libre,D10,a,2,27.993300,28313601,10652,3,OK
+greedy,1024,1024,libre,D10,a,0,0.072100,4096,6961,3,OK
+greedy,1024,1024,libre,D10,a,1,0.037600,4096,6961,3,OK
+greedy,1024,1024,libre,D10,a,2,0.025400,4096,6961,3,OK
+programacion dinamica,1024,1024,libre,D10,b,0,25.997300,28313601,10486,3,OK
+programacion dinamica,1024,1024,libre,D10,b,1,26.317200,28313601,10486,3,OK
+programacion dinamica,1024,1024,libre,D10,b,2,27.331800,28313601,10486,3,OK
+greedy,1024,1024,libre,D10,b,0,0.073600,4096,7025,3,OK
+greedy,1024,1024,libre,D10,b,1,0.069800,4096,7025,3,OK
+greedy,1024,1024,libre,D10,b,2,0.021600,4096,7025,3,OK
+programacion dinamica,1024,1024,libre,D10,c,0,26.592200,28313601,10466,3,OK
+programacion dinamica,1024,1024,libre,D10,c,1,32.061000,28313601,10466,3,OK
+programacion dinamica,1024,1024,libre,D10,c,2,30.206800,28313601,10466,3,OK
+greedy,1024,1024,libre,D10,c,0,0.070200,4096,6644,3,OK
+greedy,1024,1024,libre,D10,c,1,0.090000,4096,6644,3,OK
+greedy,1024,1024,libre,D10,c,2,0.024400,4096,6644,3,OK
+programacion dinamica,1024,1024,libre,D1000,a,0,24.098600,28313601,1000426,3,OK
+programacion dinamica,1024,1024,libre,D1000,a,1,28.522500,28313601,1000426,3,OK
+programacion dinamica,1024,1024,libre,D1000,a,2,28.053000,28313601,1000426,3,OK
+greedy,1024,1024,libre,D1000,a,0,0.067700,4096,665263,3,OK
+greedy,1024,1024,libre,D1000,a,1,0.137700,4096,665263,3,OK
+greedy,1024,1024,libre,D1000,a,2,0.024100,4096,665263,3,OK
+programacion dinamica,1024,1024,libre,D1000,b,0,26.074700,28313601,997674,3,OK
+programacion dinamica,1024,1024,libre,D1000,b,1,25.832300,28313601,997674,3,OK
+programacion dinamica,1024,1024,libre,D1000,b,2,26.340300,28313601,997674,3,OK
+greedy,1024,1024,libre,D1000,b,0,0.071000,4096,649459,3,OK
+greedy,1024,1024,libre,D1000,b,1,0.072900,4096,649459,3,OK
+greedy,1024,1024,libre,D1000,b,2,0.022500,4096,649459,3,OK
+programacion dinamica,1024,1024,libre,D1000,c,0,23.378500,28313601,1003219,3,OK
+programacion dinamica,1024,1024,libre,D1000,c,1,29.066300,28313601,1003219,3,OK
+programacion dinamica,1024,1024,libre,D1000,c,2,28.041900,28313601,1003219,3,OK
+greedy,1024,1024,libre,D1000,c,0,0.071700,4096,654670,3,OK
+greedy,1024,1024,libre,D1000,c,1,0.095300,4096,654670,3,OK
+greedy,1024,1024,libre,D1000,c,2,0.024300,4096,654670,3,OK
+programacion dinamica,1024,1024,murallas,D10,a,0,25.159900,28313601,10562,3,OK
+programacion dinamica,1024,1024,murallas,D10,a,1,28.471200,28313601,10562,3,OK
+programacion dinamica,1024,1024,murallas,D10,a,2,26.852900,28313601,10562,3,OK
+greedy,1024,1024,murallas,D10,a,0,0.067800,4096,6869,3,OK
+greedy,1024,1024,murallas,D10,a,1,0.069700,4096,6869,3,OK
+greedy,1024,1024,murallas,D10,a,2,0.023600,4096,6869,3,OK
+programacion dinamica,1024,1024,murallas,D10,b,0,25.251400,28313601,10587,3,OK
+programacion dinamica,1024,1024,murallas,D10,b,1,25.178800,28313601,10587,3,OK
+programacion dinamica,1024,1024,murallas,D10,b,2,25.484700,28313601,10587,3,OK
+greedy,1024,1024,murallas,D10,b,0,0.078200,4096,6843,3,OK
+greedy,1024,1024,murallas,D10,b,1,0.065000,4096,6843,3,OK
+greedy,1024,1024,murallas,D10,b,2,0.021700,4096,6843,3,OK
+programacion dinamica,1024,1024,murallas,D10,c,0,23.795300,28313601,10497,3,OK
+programacion dinamica,1024,1024,murallas,D10,c,1,25.947900,28313601,10497,3,OK
+programacion dinamica,1024,1024,murallas,D10,c,2,25.098700,28313601,10497,3,OK
+greedy,1024,1024,murallas,D10,c,0,0.076400,4096,7046,3,OK
+greedy,1024,1024,murallas,D10,c,1,0.068400,4096,7046,3,OK
+greedy,1024,1024,murallas,D10,c,2,0.023400,4096,7046,3,OK
+programacion dinamica,1024,1024,murallas,D1000,a,0,31.454700,28313601,999076,3,OK
+programacion dinamica,1024,1024,murallas,D1000,a,1,28.533200,28313601,999076,3,OK
+programacion dinamica,1024,1024,murallas,D1000,a,2,29.009700,28313601,999076,3,OK
+greedy,1024,1024,murallas,D1000,a,0,0.081400,4096,696327,3,OK
+greedy,1024,1024,murallas,D1000,a,1,0.100400,4096,696327,3,OK
+greedy,1024,1024,murallas,D1000,a,2,0.024900,4096,696327,3,OK
+programacion dinamica,1024,1024,murallas,D1000,b,0,23.750600,28313601,1002899,3,OK
+programacion dinamica,1024,1024,murallas,D1000,b,1,27.092100,28313601,1002899,3,OK
+programacion dinamica,1024,1024,murallas,D1000,b,2,29.056000,28313601,1002899,3,OK
+greedy,1024,1024,murallas,D1000,b,0,0.072200,4096,683186,3,OK
+greedy,1024,1024,murallas,D1000,b,1,0.078700,4096,683186,3,OK
+greedy,1024,1024,murallas,D1000,b,2,0.024200,4096,683186,3,OK
+programacion dinamica,1024,1024,murallas,D1000,c,0,24.757100,28313601,1014243,3,OK
+programacion dinamica,1024,1024,murallas,D1000,c,1,28.324600,28313601,1014243,3,OK
+programacion dinamica,1024,1024,murallas,D1000,c,2,27.878500,28313601,1014243,3,OK
+greedy,1024,1024,murallas,D1000,c,0,0.072800,4096,655355,3,OK
+greedy,1024,1024,murallas,D1000,c,1,0.095500,4096,655355,3,OK
+greedy,1024,1024,murallas,D1000,c,2,0.023900,4096,655355,3,OK
+programacion dinamica,1024,1024,minas,D10,a,0,25.093400,28313601,10598,3,OK
+programacion dinamica,1024,1024,minas,D10,a,1,28.916700,28313601,10598,3,OK
+programacion dinamica,1024,1024,minas,D10,a,2,29.003700,28313601,10598,3,OK
+greedy,1024,1024,minas,D10,a,0,0.156600,4096,7103,3,OK
+greedy,1024,1024,minas,D10,a,1,0.101200,4096,7103,3,OK
+greedy,1024,1024,minas,D10,a,2,0.022700,4096,7103,3,OK
+programacion dinamica,1024,1024,minas,D10,b,0,25.209600,28313601,10488,3,OK
+programacion dinamica,1024,1024,minas,D10,b,1,27.972900,28313601,10488,3,OK
+programacion dinamica,1024,1024,minas,D10,b,2,25.313900,28313601,10488,3,OK
+greedy,1024,1024,minas,D10,b,0,0.071900,4096,7072,3,OK
+greedy,1024,1024,minas,D10,b,1,0.068300,4096,7072,3,OK
+greedy,1024,1024,minas,D10,b,2,0.022000,4096,7072,3,OK
+programacion dinamica,1024,1024,minas,D10,c,0,25.562800,28313601,10551,3,OK
+programacion dinamica,1024,1024,minas,D10,c,1,28.442200,28313601,10551,3,OK
+programacion dinamica,1024,1024,minas,D10,c,2,29.568500,28313601,10551,3,OK
+greedy,1024,1024,minas,D10,c,0,0.070500,4096,6903,3,OK
+greedy,1024,1024,minas,D10,c,1,0.097400,4096,6903,3,OK
+greedy,1024,1024,minas,D10,c,2,0.022700,4096,6903,3,OK
+programacion dinamica,1024,1024,minas,D1000,a,0,23.589800,28313601,1005986,3,OK
+programacion dinamica,1024,1024,minas,D1000,a,1,27.339000,28313601,1005986,3,OK
+programacion dinamica,1024,1024,minas,D1000,a,2,27.543400,28313601,1005986,3,OK
+greedy,1024,1024,minas,D1000,a,0,0.071200,4096,648269,3,OK
+greedy,1024,1024,minas,D1000,a,1,0.068000,4096,648269,3,OK
+greedy,1024,1024,minas,D1000,a,2,0.023100,4096,648269,3,OK
+programacion dinamica,1024,1024,minas,D1000,b,0,25.329500,28313601,1006051,3,OK
+programacion dinamica,1024,1024,minas,D1000,b,1,28.991100,28313601,1006051,3,OK
+programacion dinamica,1024,1024,minas,D1000,b,2,27.214600,28313601,1006051,3,OK
+greedy,1024,1024,minas,D1000,b,0,0.091800,4096,635962,3,OK
+greedy,1024,1024,minas,D1000,b,1,0.051200,4096,635962,3,OK
+greedy,1024,1024,minas,D1000,b,2,0.021600,4096,635962,3,OK
+programacion dinamica,1024,1024,minas,D1000,c,0,23.237400,28313601,997390,3,OK
+programacion dinamica,1024,1024,minas,D1000,c,1,25.898300,28313601,997390,3,OK
+programacion dinamica,1024,1024,minas,D1000,c,2,25.091500,28313601,997390,3,OK
+greedy,1024,1024,minas,D1000,c,0,0.072500,4096,711347,3,OK
+greedy,1024,1024,minas,D1000,c,1,0.132600,4096,711347,3,OK
+greedy,1024,1024,minas,D1000,c,2,0.052900,4096,711347,3,OK
+programacion dinamica,1024,1024,mixta,D10,a,0,23.643000,28313601,10626,3,OK
+programacion dinamica,1024,1024,mixta,D10,a,1,26.438600,28313601,10626,3,OK
+programacion dinamica,1024,1024,mixta,D10,a,2,24.991400,28313601,10626,3,OK
+greedy,1024,1024,mixta,D10,a,0,0.071500,4096,6539,3,OK
+greedy,1024,1024,mixta,D10,a,1,0.329100,4096,6539,3,OK
+greedy,1024,1024,mixta,D10,a,2,0.025500,4096,6539,3,OK
+programacion dinamica,1024,1024,mixta,D10,b,0,25.325900,28313601,10432,3,OK
+programacion dinamica,1024,1024,mixta,D10,b,1,28.280800,28313601,10432,3,OK
+programacion dinamica,1024,1024,mixta,D10,b,2,27.418100,28313601,10432,3,OK
+greedy,1024,1024,mixta,D10,b,0,0.076800,2049,,,SIN SOLUCION
+greedy,1024,1024,mixta,D10,b,1,0.082800,2049,,,SIN SOLUCION
+greedy,1024,1024,mixta,D10,b,2,0.021900,2049,,,SIN SOLUCION
+programacion dinamica,1024,1024,mixta,D10,c,0,23.825800,28313601,10469,3,OK
+programacion dinamica,1024,1024,mixta,D10,c,1,28.896000,28313601,10469,3,OK
+programacion dinamica,1024,1024,mixta,D10,c,2,27.303800,28313601,10469,3,OK
+greedy,1024,1024,mixta,D10,c,0,0.076600,4096,6731,3,OK
+greedy,1024,1024,mixta,D10,c,1,0.071000,4096,6731,3,OK
+greedy,1024,1024,mixta,D10,c,2,0.021600,4096,6731,3,OK
+programacion dinamica,1024,1024,mixta,D1000,a,0,24.922500,28313601,1003506,3,OK
+programacion dinamica,1024,1024,mixta,D1000,a,1,25.780800,28313601,1003506,3,OK
+programacion dinamica,1024,1024,mixta,D1000,a,2,24.804000,28313601,1003506,3,OK
+greedy,1024,1024,mixta,D1000,a,0,0.089700,4096,642164,3,OK
+greedy,1024,1024,mixta,D1000,a,1,0.073700,4096,642164,3,OK
+greedy,1024,1024,mixta,D1000,a,2,0.023400,4096,642164,3,OK
+programacion dinamica,1024,1024,mixta,D1000,b,0,23.558500,28313601,1005711,3,OK
+programacion dinamica,1024,1024,mixta,D1000,b,1,26.862400,28313601,1005711,3,OK
+programacion dinamica,1024,1024,mixta,D1000,b,2,28.250800,28313601,1005711,3,OK
+greedy,1024,1024,mixta,D1000,b,0,0.072700,4096,695868,3,OK
+greedy,1024,1024,mixta,D1000,b,1,0.108200,4096,695868,3,OK
+greedy,1024,1024,mixta,D1000,b,2,0.024200,4096,695868,3,OK
+programacion dinamica,1024,1024,mixta,D1000,c,0,25.447600,28313601,997547,3,OK
+programacion dinamica,1024,1024,mixta,D1000,c,1,25.839700,28313601,997547,3,OK
+programacion dinamica,1024,1024,mixta,D1000,c,2,26.838800,28313601,997547,3,OK
+greedy,1024,1024,mixta,D1000,c,0,0.083000,4096,690704,3,OK
+greedy,1024,1024,mixta,D1000,c,1,0.070100,4096,690704,3,OK
+greedy,1024,1024,mixta,D1000,c,2,0.029300,4096,690704,3,OK
+programacion dinamica,1024,2048,libre,D10,a,0,50.004900,56626177,15064,3,OK
+programacion dinamica,1024,2048,libre,D10,a,1,54.004400,56626177,15064,3,OK
+programacion dinamica,1024,2048,libre,D10,a,2,53.007200,56626177,15064,3,OK
+greedy,1024,2048,libre,D10,a,0,0.129400,6144,8003,3,OK
+greedy,1024,2048,libre,D10,a,1,0.132300,6144,8003,3,OK
+greedy,1024,2048,libre,D10,a,2,0.033400,6144,8003,3,OK
+programacion dinamica,1024,2048,libre,D10,b,0,46.806200,56626177,15074,3,OK
+programacion dinamica,1024,2048,libre,D10,b,1,53.037100,56626177,15074,3,OK
+programacion dinamica,1024,2048,libre,D10,b,2,52.197000,56626177,15074,3,OK
+greedy,1024,2048,libre,D10,b,0,0.092200,6144,8211,3,OK
+greedy,1024,2048,libre,D10,b,1,0.085300,6144,8211,3,OK
+greedy,1024,2048,libre,D10,b,2,0.028600,6144,8211,3,OK
+programacion dinamica,1024,2048,libre,D10,c,0,46.777800,56626177,15041,3,OK
+programacion dinamica,1024,2048,libre,D10,c,1,58.594300,56626177,15041,3,OK
+programacion dinamica,1024,2048,libre,D10,c,2,52.348100,56626177,15041,3,OK
+greedy,1024,2048,libre,D10,c,0,0.086000,6144,7624,3,OK
+greedy,1024,2048,libre,D10,c,1,0.082900,6144,7624,3,OK
+greedy,1024,2048,libre,D10,c,2,0.026900,6144,7624,3,OK
+programacion dinamica,1024,2048,libre,D1000,a,0,48.433800,56626177,1440543,3,OK
+programacion dinamica,1024,2048,libre,D1000,a,1,53.872900,56626177,1440543,3,OK
+programacion dinamica,1024,2048,libre,D1000,a,2,52.653900,56626177,1440543,3,OK
+greedy,1024,2048,libre,D1000,a,0,0.086300,6144,670597,3,OK
+greedy,1024,2048,libre,D1000,a,1,0.081900,6144,670597,3,OK
+greedy,1024,2048,libre,D1000,a,2,0.028300,6144,670597,3,OK
+programacion dinamica,1024,2048,libre,D1000,b,0,47.437600,56626177,1426189,3,OK
+programacion dinamica,1024,2048,libre,D1000,b,1,55.467700,56626177,1426189,3,OK
+programacion dinamica,1024,2048,libre,D1000,b,2,58.654500,56626177,1426189,3,OK
+greedy,1024,2048,libre,D1000,b,0,0.088800,6144,678160,3,OK
+greedy,1024,2048,libre,D1000,b,1,0.121300,6144,678160,3,OK
+greedy,1024,2048,libre,D1000,b,2,0.026100,6144,678160,3,OK
+programacion dinamica,1024,2048,libre,D1000,c,0,46.426800,56626177,1446099,3,OK
+programacion dinamica,1024,2048,libre,D1000,c,1,54.634200,56626177,1446099,3,OK
+programacion dinamica,1024,2048,libre,D1000,c,2,51.975600,56626177,1446099,3,OK
+greedy,1024,2048,libre,D1000,c,0,0.077700,6144,694818,3,OK
+greedy,1024,2048,libre,D1000,c,1,0.106500,6144,694818,3,OK
+greedy,1024,2048,libre,D1000,c,2,0.034700,6144,694818,3,OK
+programacion dinamica,1024,2048,murallas,D10,a,0,47.003300,56626177,14890,3,OK
+programacion dinamica,1024,2048,murallas,D10,a,1,54.101400,56626177,14890,3,OK
+programacion dinamica,1024,2048,murallas,D10,a,2,49.989000,56626177,14890,3,OK
+greedy,1024,2048,murallas,D10,a,0,0.089200,3073,,,SIN SOLUCION
+greedy,1024,2048,murallas,D10,a,1,0.047000,3073,,,SIN SOLUCION
+greedy,1024,2048,murallas,D10,a,2,0.029100,3073,,,SIN SOLUCION
+programacion dinamica,1024,2048,murallas,D10,b,0,49.724800,56626177,14979,3,OK
+programacion dinamica,1024,2048,murallas,D10,b,1,53.330200,56626177,14979,3,OK
+programacion dinamica,1024,2048,murallas,D10,b,2,53.283600,56626177,14979,3,OK
+greedy,1024,2048,murallas,D10,b,0,0.089600,6144,7678,3,OK
+greedy,1024,2048,murallas,D10,b,1,0.048800,6144,7678,3,OK
+greedy,1024,2048,murallas,D10,b,2,0.030600,6144,7678,3,OK
+programacion dinamica,1024,2048,murallas,D10,c,0,46.815000,56626177,15077,3,OK
+programacion dinamica,1024,2048,murallas,D10,c,1,54.103500,56626177,15077,3,OK
+programacion dinamica,1024,2048,murallas,D10,c,2,53.848000,56626177,15077,3,OK
+greedy,1024,2048,murallas,D10,c,0,0.095800,6144,8138,3,OK
+greedy,1024,2048,murallas,D10,c,1,0.123200,6144,8138,3,OK
+greedy,1024,2048,murallas,D10,c,2,0.028000,6144,8138,3,OK
+programacion dinamica,1024,2048,murallas,D1000,a,0,47.873500,56626177,1440776,3,OK
+programacion dinamica,1024,2048,murallas,D1000,a,1,54.718300,56626177,1440776,3,OK
+programacion dinamica,1024,2048,murallas,D1000,a,2,54.410900,56626177,1440776,3,OK
+greedy,1024,2048,murallas,D1000,a,0,0.082000,6144,649488,3,OK
+greedy,1024,2048,murallas,D1000,a,1,0.044300,6144,649488,3,OK
+greedy,1024,2048,murallas,D1000,a,2,0.030200,6144,649488,3,OK
+programacion dinamica,1024,2048,murallas,D1000,b,0,50.353600,56626177,1429912,3,OK
+programacion dinamica,1024,2048,murallas,D1000,b,1,53.301200,56626177,1429912,3,OK
+programacion dinamica,1024,2048,murallas,D1000,b,2,53.691900,56626177,1429912,3,OK
+greedy,1024,2048,murallas,D1000,b,0,0.100400,3073,,,SIN SOLUCION
+greedy,1024,2048,murallas,D1000,b,1,0.061100,3073,,,SIN SOLUCION
+greedy,1024,2048,murallas,D1000,b,2,0.030400,3073,,,SIN SOLUCION
+programacion dinamica,1024,2048,murallas,D1000,c,0,47.783000,56626177,1438447,3,OK
+programacion dinamica,1024,2048,murallas,D1000,c,1,57.838100,56626177,1438447,3,OK
+programacion dinamica,1024,2048,murallas,D1000,c,2,54.937500,56626177,1438447,3,OK
+greedy,1024,2048,murallas,D1000,c,0,0.095600,6144,722364,3,OK
+greedy,1024,2048,murallas,D1000,c,1,0.073900,6144,722364,3,OK
+greedy,1024,2048,murallas,D1000,c,2,0.027300,6144,722364,3,OK
+programacion dinamica,1024,2048,minas,D10,a,0,47.225300,56626177,15072,3,OK
+programacion dinamica,1024,2048,minas,D10,a,1,57.527000,56626177,15072,3,OK
+programacion dinamica,1024,2048,minas,D10,a,2,51.506600,56626177,15072,3,OK
+greedy,1024,2048,minas,D10,a,0,0.086400,6144,7451,2,OK
+greedy,1024,2048,minas,D10,a,1,0.073400,6144,7451,2,OK
+greedy,1024,2048,minas,D10,a,2,0.027400,6144,7451,2,OK
+programacion dinamica,1024,2048,minas,D10,b,0,46.344500,56626177,15196,2,OK
+programacion dinamica,1024,2048,minas,D10,b,1,52.790000,56626177,15196,2,OK
+programacion dinamica,1024,2048,minas,D10,b,2,54.864100,56626177,15196,2,OK
+greedy,1024,2048,minas,D10,b,0,0.107700,6144,7870,2,OK
+greedy,1024,2048,minas,D10,b,1,0.082800,6144,7870,2,OK
+greedy,1024,2048,minas,D10,b,2,0.025300,6144,7870,2,OK
+programacion dinamica,1024,2048,minas,D10,c,0,52.358000,56626177,15062,3,OK
+programacion dinamica,1024,2048,minas,D10,c,1,55.243200,56626177,15062,3,OK
+programacion dinamica,1024,2048,minas,D10,c,2,52.174900,56626177,15062,3,OK
+greedy,1024,2048,minas,D10,c,0,0.103200,6144,7228,3,OK
+greedy,1024,2048,minas,D10,c,1,0.113200,6144,7228,3,OK
+greedy,1024,2048,minas,D10,c,2,0.026600,6144,7228,3,OK
+programacion dinamica,1024,2048,minas,D1000,a,0,48.093000,56626177,1428328,3,OK
+programacion dinamica,1024,2048,minas,D1000,a,1,54.536700,56626177,1428328,3,OK
+programacion dinamica,1024,2048,minas,D1000,a,2,53.812600,56626177,1428328,3,OK
+greedy,1024,2048,minas,D1000,a,0,0.085900,6144,657538,2,OK
+greedy,1024,2048,minas,D1000,a,1,0.048000,6144,657538,2,OK
+greedy,1024,2048,minas,D1000,a,2,0.028000,6144,657538,2,OK
+programacion dinamica,1024,2048,minas,D1000,b,0,49.404600,56626177,1433829,3,OK
+programacion dinamica,1024,2048,minas,D1000,b,1,54.473700,56626177,1433829,3,OK
+programacion dinamica,1024,2048,minas,D1000,b,2,53.205100,56626177,1433829,3,OK
+greedy,1024,2048,minas,D1000,b,0,0.100000,6144,729782,3,OK
+greedy,1024,2048,minas,D1000,b,1,0.167500,6144,729782,3,OK
+greedy,1024,2048,minas,D1000,b,2,0.027000,6144,729782,3,OK
+programacion dinamica,1024,2048,minas,D1000,c,0,49.375800,56626177,1440171,3,OK
+programacion dinamica,1024,2048,minas,D1000,c,1,52.636500,56626177,1440171,3,OK
+programacion dinamica,1024,2048,minas,D1000,c,2,54.166100,56626177,1440171,3,OK
+greedy,1024,2048,minas,D1000,c,0,0.081800,6144,671520,3,OK
+greedy,1024,2048,minas,D1000,c,1,0.113900,6144,671520,3,OK
+greedy,1024,2048,minas,D1000,c,2,0.028500,6144,671520,3,OK
+programacion dinamica,1024,2048,mixta,D10,a,0,47.890700,56626177,14944,3,OK
+programacion dinamica,1024,2048,mixta,D10,a,1,54.316000,56626177,14944,3,OK
+programacion dinamica,1024,2048,mixta,D10,a,2,51.986500,56626177,14944,3,OK
+greedy,1024,2048,mixta,D10,a,0,0.092800,3073,,,SIN SOLUCION
+greedy,1024,2048,mixta,D10,a,1,0.111300,3073,,,SIN SOLUCION
+greedy,1024,2048,mixta,D10,a,2,0.034300,3073,,,SIN SOLUCION
+programacion dinamica,1024,2048,mixta,D10,b,0,53.034400,56626177,14984,3,OK
+programacion dinamica,1024,2048,mixta,D10,b,1,62.834300,56626177,14984,3,OK
+programacion dinamica,1024,2048,mixta,D10,b,2,50.800700,56626177,14984,3,OK
+greedy,1024,2048,mixta,D10,b,0,0.131100,3073,,,SIN SOLUCION
+greedy,1024,2048,mixta,D10,b,1,0.077500,3073,,,SIN SOLUCION
+greedy,1024,2048,mixta,D10,b,2,0.029700,3073,,,SIN SOLUCION
+programacion dinamica,1024,2048,mixta,D10,c,0,48.772200,56626177,15015,3,OK
+programacion dinamica,1024,2048,mixta,D10,c,1,49.072600,56626177,15015,3,OK
+programacion dinamica,1024,2048,mixta,D10,c,2,48.491900,56626177,15015,3,OK
+greedy,1024,2048,mixta,D10,c,0,0.106400,6144,8084,3,OK
+greedy,1024,2048,mixta,D10,c,1,0.106000,6144,8084,3,OK
+greedy,1024,2048,mixta,D10,c,2,0.027300,6144,8084,3,OK
+programacion dinamica,1024,2048,mixta,D1000,a,0,49.124500,56626177,1429270,3,OK
+programacion dinamica,1024,2048,mixta,D1000,a,1,49.290800,56626177,1429270,3,OK
+programacion dinamica,1024,2048,mixta,D1000,a,2,52.462700,56626177,1429270,3,OK
+greedy,1024,2048,mixta,D1000,a,0,0.100200,6144,685178,3,OK
+greedy,1024,2048,mixta,D1000,a,1,0.097500,6144,685178,3,OK
+greedy,1024,2048,mixta,D1000,a,2,0.027400,6144,685178,3,OK
+programacion dinamica,1024,2048,mixta,D1000,b,0,47.416300,56626177,1434344,3,OK
+programacion dinamica,1024,2048,mixta,D1000,b,1,51.955500,56626177,1434344,3,OK
+programacion dinamica,1024,2048,mixta,D1000,b,2,50.449700,56626177,1434344,3,OK
+greedy,1024,2048,mixta,D1000,b,0,0.088800,3073,,,SIN SOLUCION
+greedy,1024,2048,mixta,D1000,b,1,0.086100,3073,,,SIN SOLUCION
+greedy,1024,2048,mixta,D1000,b,2,0.026500,3073,,,SIN SOLUCION
+programacion dinamica,1024,2048,mixta,D1000,c,0,44.523400,56626177,1423062,3,OK
+programacion dinamica,1024,2048,mixta,D1000,c,1,47.308400,56626177,1423062,3,OK
+programacion dinamica,1024,2048,mixta,D1000,c,2,46.420700,56626177,1423062,3,OK
+greedy,1024,2048,mixta,D1000,c,0,0.324600,6144,683834,3,OK
+greedy,1024,2048,mixta,D1000,c,1,0.100100,6144,683834,3,OK
+greedy,1024,2048,mixta,D1000,c,2,0.026200,6144,683834,3,OK
